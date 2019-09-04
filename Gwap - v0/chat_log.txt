@@ -1,0 +1,469 @@
+Time=2019-07-22 07:05:16.048198 Name=justinnguyenj Message=1:some trees along a river
+Time=2019-07-22 16:09:31.654470 Name=justinnguyenj Message=1:some trees along a river
+Time=2019-07-22 16:10:48.238622 Name=justinnguyenj Message=1:some trees along a river
+Time=2019-07-22 16:28:16.704705 Name=justinnguyenj Message=1:some trees along a river
+Time=2019-07-22 16:29:15.430796 Name=ch932 Message=Time is up for describing. Please voting these descriptions
+Time=2019-07-22 16:34:26.919755 Name=justinnguyenj Message=1:some trees along a river
+Time=2019-07-22 17:00:01.357454 Name=justinnguyenj Message=1:some trees along a river
+Time=2019-07-22 17:10:16.122214 Name=justinnguyenj Message=1:some trees along a river
+Time=2019-07-22 17:12:33.131285 Name=justinnguyenj Message=2:a bridge
+Time=2019-07-22 17:12:47.565208 Name=justinnguyenj Message=2:a women is crying
+Time=2019-07-22 17:17:04.771152 Name=justinnguyenj Message=2:a women is crying
+Time=2019-07-22 17:17:46.500049 Name=justinnguyenj Message=2:a women is crying
+Time=2019-07-22 17:18:04.874530 Name=justinnguyenj Message=#2
+Time=2019-07-22 17:18:45.519425 Name=justinnguyenj Message=1:i dont know
+Time=2019-07-22 17:18:59.506403 Name=justinnguyenj Message=1:haha
+Time=2019-07-22 17:19:01.552608 Name=justinnguyenj Message=#1
+Time=2019-07-22 17:23:32.771876 Name=justinnguyenj Message=1:a forest
+Time=2019-07-22 17:23:41.030374 Name=justinnguyenj Message=#1
+Time=2019-07-22 17:24:13.880517 Name=justinnguyenj Message=2:a man is on a horse
+Time=2019-07-22 17:24:32.396124 Name=justinnguyenj Message=#2
+Time=2019-07-22 17:25:20.026312 Name=justinnguyenj Message=#1
+Time=2019-07-22 17:25:31.755196 Name=justinnguyenj Message=3:something
+Time=2019-07-22 17:25:51.977405 Name=justinnguyenj Message=3:something amazing
+Time=2019-07-22 17:26:01.973705 Name=justinnguyenj Message=#3
+Time=2019-07-22 17:26:46.362004 Name=justinnguyenj Message=#3
+Time=2019-07-22 17:32:49.960162 Name=justinnguyenj Message=2:houses in snow
+Time=2019-07-22 17:32:55.294567 Name=justinnguyenj Message=#2
+Time=2019-07-22 17:33:27.724183 Name=justinnguyenj Message=1:letters kanji
+Time=2019-07-22 17:33:29.158003 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 17:33:29.184988 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 17:33:40.234385 Name=justinnguyenj Message=#1
+Time=2019-07-22 17:33:57.536050 Name=justinnguyenj Message=#3
+Time=2019-07-22 17:34:44.738268 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 17:34:44.760256 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 17:35:02.495830 Name=justinnguyenj Message=2:lol
+Time=2019-07-22 17:35:10.710010 Name=justinnguyenj Message=#1
+Time=2019-07-22 17:35:16.183752 Name=justinnguyenj Message=#2
+Time=2019-07-22 17:36:00.620632 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 17:36:00.643619 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 17:37:16.851158 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 17:37:16.874147 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 17:38:32.512693 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 17:38:32.539677 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 17:39:48.528427 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 17:39:48.554412 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 17:41:04.385819 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 17:41:04.411804 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 17:42:20.025198 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 17:42:20.053182 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 17:43:35.807257 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 17:43:35.835241 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 17:44:51.323200 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 17:44:51.372683 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 17:46:07.022053 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 17:46:07.050037 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 17:47:22.798767 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 17:47:22.823590 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 17:48:38.498148 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 17:48:38.526133 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 17:49:54.872807 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 17:49:54.900792 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 17:51:10.558600 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 17:51:10.584586 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 17:52:26.370905 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 17:52:26.412883 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 17:53:43.763332 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 17:53:43.797312 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 17:54:59.869850 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 17:54:59.896835 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 17:56:15.387766 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 17:56:15.419748 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 17:57:31.299092 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 17:57:31.327074 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 17:58:47.629578 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 17:58:47.652564 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:00:04.453758 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:00:04.476748 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:01:20.288518 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:01:20.313505 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:02:36.112737 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:02:36.142718 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:03:51.898677 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:03:51.929661 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:05:08.682776 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:05:08.711760 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:06:25.550733 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:06:25.583244 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:07:42.246233 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:07:42.269219 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:08:58.113066 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:08:58.146046 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:10:13.889560 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:10:13.918544 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:11:29.856107 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:11:29.884091 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:12:45.279068 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:12:45.304052 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:14:01.593540 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:14:01.624523 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:15:17.469353 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:15:17.497338 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:16:33.768895 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:16:33.797880 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:17:49.610571 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:17:49.635556 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:19:05.545695 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:19:05.579677 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:20:21.444925 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:20:21.471910 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:21:39.269136 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:21:39.296121 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:22:56.191723 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:22:56.219705 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:24:11.885574 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:24:11.913558 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:25:28.040501 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:25:28.071990 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:26:43.581981 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:26:43.610965 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:27:59.890333 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:27:59.917825 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:29:16.576044 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:29:16.613024 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:30:32.476443 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:30:32.512422 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:31:48.296184 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:31:48.324168 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:33:04.001692 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:33:04.038671 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:34:19.519067 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:34:19.545052 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:35:35.838279 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:35:35.867263 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:36:52.379941 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:36:52.411950 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:38:09.349249 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:38:09.375234 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:39:24.847983 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:39:24.875968 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:40:40.534943 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:40:40.560929 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:41:56.746588 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:41:56.784567 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:43:12.798005 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:43:12.826989 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:44:28.340338 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:44:28.372321 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:45:45.880208 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:45:45.909190 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:47:01.366918 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:47:01.399900 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:48:17.714326 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:48:17.747308 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:49:33.713398 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:49:33.752375 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:50:49.202391 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:50:49.231375 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:52:05.211117 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:52:05.246096 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:53:21.917414 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:53:21.961388 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:54:37.461049 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:54:37.513020 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:55:53.086485 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:55:53.133965 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:57:09.812419 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:57:09.842402 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:58:26.023578 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:58:26.052562 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 18:59:42.019800 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 18:59:42.047731 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:00:58.098766 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:00:58.130748 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:02:14.029833 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:02:14.060814 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:03:30.065165 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:03:30.102146 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:04:45.872810 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:04:45.904792 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:06:01.634311 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:06:01.659296 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:07:18.956118 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:07:18.989098 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:08:36.153989 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:08:36.182973 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:09:52.140988 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:09:52.170970 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:11:08.881221 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:11:08.919706 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:12:24.609771 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:12:24.647750 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:13:40.689874 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:13:40.724854 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:14:57.186784 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:14:57.218766 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:16:13.976147 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:16:14.016125 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:17:30.964789 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:17:30.993772 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:18:47.019633 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:18:47.049129 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:20:02.981788 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:20:03.014769 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:21:18.800765 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:21:18.829748 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:22:35.376407 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:22:35.404392 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:23:51.026377 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:23:51.059357 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:25:08.249663 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:25:08.278649 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:26:24.194308 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:26:24.226527 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:27:39.782213 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:27:39.810197 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:28:55.847358 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:28:55.884337 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:30:11.567290 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:30:11.599272 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:31:27.810747 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:31:27.838731 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:32:44.367593 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:32:44.402574 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:34:01.289472 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:34:01.320455 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:35:17.307676 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:35:17.340358 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:36:33.071354 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:36:33.100844 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:37:49.886312 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:37:49.922291 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:39:05.526165 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:39:05.568648 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:40:20.969382 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:40:21.009359 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:41:36.662128 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:41:36.692110 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:42:52.323795 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:42:52.368770 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:44:08.005492 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:44:08.040472 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:45:24.191089 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:45:24.218073 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:46:39.884243 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:46:39.914928 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:47:56.653901 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:47:56.684522 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:49:12.415613 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:49:12.443596 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:50:28.303398 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:50:28.334381 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:51:44.012392 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:51:44.046879 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:52:59.761780 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:52:59.795762 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:54:15.614757 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:54:15.645739 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:55:31.145251 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:55:31.180738 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:56:47.113736 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:56:47.150717 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:58:03.282017 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:58:03.317996 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 19:59:19.177590 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 19:59:19.218567 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:00:35.072261 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:00:35.103244 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:01:51.843160 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:01:51.876142 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:03:07.554846 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:03:07.593369 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:04:23.641168 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:04:23.671757 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:05:39.123560 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:05:39.159541 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:06:55.647484 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:06:55.676467 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:08:12.898309 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:08:12.939285 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:09:28.599800 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:09:28.632767 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:10:44.556927 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:10:44.587910 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:12:00.042609 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:12:00.079589 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:13:16.033604 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:13:16.067584 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:14:31.633791 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:14:31.673131 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:15:47.003740 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:15:47.034723 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:17:02.470309 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:17:02.502290 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:18:19.342806 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:18:19.377021 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:19:35.282254 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:19:35.310237 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:20:50.860108 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:20:50.891090 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:22:07.088563 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:22:07.121545 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:23:22.990459 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:23:23.019471 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:24:38.915231 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:24:38.957208 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:25:54.840330 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:25:54.876817 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:27:10.640448 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:27:10.667433 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:28:26.905905 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:28:26.944883 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:29:42.614358 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:29:42.645342 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:30:58.662676 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:30:58.694657 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:32:14.153282 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:32:14.185264 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:33:30.451253 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:33:30.484742 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:34:46.232936 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:34:46.261921 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:36:02.832453 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:36:02.872938 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:37:18.702946 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:37:18.737434 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:38:34.498201 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:38:34.527185 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:39:50.384230 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:39:50.414213 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:41:06.454524 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:41:06.484507 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:42:22.167256 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:42:22.196241 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:43:37.786465 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:43:37.820447 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:44:55.150715 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:44:55.185697 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:46:11.826159 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:46:11.869137 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:47:29.804163 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:47:29.841142 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:48:45.552592 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:48:45.596444 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:50:01.729355 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:50:01.767334 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:51:17.457180 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:51:17.491161 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:52:34.701842 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:52:34.740820 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:53:51.737949 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:53:51.773930 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:55:07.881326 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:55:07.926300 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:56:23.336135 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:56:23.370116 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:57:39.203085 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:57:39.248060 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 20:58:56.192158 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 20:58:56.225142 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:00:12.217143 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:00:12.270113 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:01:28.955242 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:01:28.996220 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:02:45.429633 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:02:45.469494 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:04:01.303477 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:04:01.333444 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:05:17.856824 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:05:17.896802 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:06:33.740877 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:06:33.789848 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:07:49.165716 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:07:49.204692 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:09:05.218786 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:09:05.258761 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:10:22.151961 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:10:22.185943 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:11:38.925996 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:11:38.976964 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:12:55.081430 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:12:55.119407 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:14:11.837837 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:14:11.872818 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:15:27.856419 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:15:27.892398 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:16:44.390354 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:16:44.423208 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:18:01.509102 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:18:01.544593 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:19:17.823697 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:19:17.862676 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:20:34.338285 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:20:34.374264 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:21:50.973291 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:21:51.005849 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:23:08.178868 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:23:08.207368 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:24:25.016413 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:24:25.062387 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:25:41.067349 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:25:41.101331 Name=tmi.twitch.tv 421 ch932 3 Message=SOMETHING :Unknown command
+Time=2019-07-22 21:30:06.303242 Name=justinnguyenj Message=2:an old god
+Time=2019-07-22 21:45:05.821388 Name=justinnguyenj Message=2:an old god
+Time=2019-07-22 21:47:43.934108 Name=justinnguyenj Message=2:an old god
+Time=2019-07-22 21:47:49.507924 Name=justinnguyenj Message=3:a man is screaming
+Time=2019-07-22 21:47:54.757924 Name=justinnguyenj Message=1: i dont know
+Time=2019-07-22 21:48:35.657296 Name=tmi.twitch.tv 421 ch932 2 Message=AN :Unknown command
+Time=2019-07-22 21:48:35.728255 Name=tmi.twitch.tv 421 ch932 3 Message=A :Unknown command
+Time=2019-07-22 21:48:43.657222 Name=justinnguyenj Message=#2
+Time=2019-07-22 21:57:08.539674 Name=tmi.twitch.tv 421 ch932 2 Message=AN :Unknown command
+Time=2019-07-22 21:57:08.603638 Name=tmi.twitch.tv 421 ch932 3 Message=A :Unknown command
+Time=2019-07-22 21:59:04.008866 Name=justinnguyenj Message=1:a big lake and a house
+Time=2019-07-22 21:59:15.422206 Name=justinnguyenj Message=3:some people seeing birds flying
+Time=2019-07-22 21:59:23.503590 Name=justinnguyenj Message=2: i dont understand
+Time=2019-07-22 21:59:45.409075 Name=tmi.twitch.tv 421 ch932 1 Message=A :Unknown command
+Time=2019-07-22 21:59:45.450052 Name=tmi.twitch.tv 421 ch932 3 Message=SOME :Unknown command
+Time=2019-07-22 21:59:51.950338 Name=justinnguyenj Message=1:i dont know
+Time=2019-07-22 21:59:53.699339 Name=justinnguyenj Message=lol
+Time=2019-07-22 22:00:03.409792 Name=justinnguyenj Message=#1
+Time=2019-07-22 22:00:05.824413 Name=justinnguyenj Message=#2
+Time=2019-07-22 22:00:52.059119 Name=justinnguyenj Message=!:a man trying to get a horse
+Time=2019-07-22 22:06:25.708462 Name=justinnguyenj Message=1:2 people telling each other rainbow
+Time=2019-07-22 22:06:43.355380 Name=justinnguyenj Message=2:snow cover all over places like house, road
+Time=2019-07-22 22:06:55.503441 Name=justinnguyenj Message=3:i have no idea
+Time=2019-07-22 22:06:56.169060 Name=tmi.twitch.tv 421 ch932 1 Message=2 :Unknown command
+Time=2019-07-22 22:06:56.209038 Name=tmi.twitch.tv 421 ch932 3 Message=I :Unknown command
+Time=2019-07-22 22:07:09.129966 Name=justinnguyenj Message=#1
+Time=2019-07-22 22:07:14.852704 Name=justinnguyenj Message=#2
+Time=2019-07-22 22:07:29.167528 Name=justinnguyenj Message=1:many girls are serving men
+Time=2019-07-22 22:07:40.289173 Name=justinnguyenj Message=2: people walking over a bridge
+Time=2019-07-22 22:08:12.807951 Name=tmi.twitch.tv 421 ch932 1 Message=MANY :Unknown command
+Time=2019-07-22 22:08:12.852925 Name=tmi.twitch.tv 421 ch932 2 Message= :Unknown command
+Time=2019-07-22 22:08:20.836364 Name=justinnguyenj Message=#1
+Time=2019-07-22 22:08:25.790198 Name=justinnguyenj Message=#2
+Time=2019-07-22 22:13:39.526172 Name=tmi.twitch.tv 421 ch932 1 Message=2 :Unknown command
+Time=2019-07-22 22:13:39.568149 Name=tmi.twitch.tv 421 ch932 3 Message=I :Unknown command
+Time=2019-07-22 22:14:55.148061 Name=tmi.twitch.tv 421 ch932 1 Message=MANY :Unknown command
+Time=2019-07-22 22:14:55.226017 Name=tmi.twitch.tv 421 ch932 2 Message= :Unknown command
+Time=2019-07-22 22:31:05.306602 Name=ch932 Message=1:i have no idea man for this image
+Time=2019-07-22 22:31:42.129770 Name=tmi.twitch.tv 421 ch932 1 Message=MANY :Unknown command
+Time=2019-07-22 22:31:42.171040 Name=tmi.twitch.tv 421 ch932 2 Message= :Unknown command
+Time=2019-07-22 22:31:42.661748 Name=justinnguyenj Message=1:i have no idea man for this image
+Time=2019-07-22 22:32:12.175611 Name=justinnguyenj Message=1:i have no idea man for this image bro
+Time=2019-07-22 22:32:58.852557 Name=tmi.twitch.tv 421 ch932 1 Message=I :Unknown command
+Time=2019-07-23 22:22:15.783604 Name=justinnguyenj Message=3: mount fuji
+Time=2019-07-23 22:22:39.558570 Name=justinnguyenj Message=1: a mountain and a river with some people on a boat
+Time=2019-07-23 22:26:29.432244 Name=justinnguyenj Message=1: a mountain and a river with some people on a boat
+Time=2019-07-23 22:26:36.472525 Name=justinnguyenj Message=3: mount fuji
+Time=2019-07-23 22:36:52.581328 Name=justinnguyenj Message=1: a beautiful women
+Time=2019-07-23 22:37:08.871648 Name=justinnguyenj Message=2: a women is sleeping outside a room which has a man inside
+Time=2019-07-23 22:40:46.874605 Name=justinnguyenj Message=1: a beautiful women
+Time=2019-07-23 22:40:51.843174 Name=justinnguyenj Message=2: a women is sleeping outside a room which has a man inside
+Time=2019-07-23 22:43:13.825952 Name=justinnguyenj Message=1: a beautiful women
+Time=2019-07-23 22:43:18.651496 Name=justinnguyenj Message=2: a women is sleeping outside a room which has a man inside
+Time=2019-07-23 23:28:28.391609 Name=justinnguyenj Message=2: a women is sleeping outside a room which has a man inside
+Time=2019-07-23 23:28:36.489956 Name=justinnguyenj Message=1: a beautiful women
+Time=2019-07-23 23:34:12.420382 Name=justinnguyenj Message=1:hello
+Time=2019-07-23 23:36:46.856350 Name=justinnguyenj Message=1:hello
+Time=2019-07-23 23:43:39.889008 Name=justinnguyenj Message=1:hhahahah
+Time=2019-07-24 00:07:17.978497 Name=justinnguyenj Message=1:hahahahahhahhahahha
+Time=2019-07-24 00:07:23.460746 Name=justinnguyenj Message=2:helooooooooooooooooooooooooooooooooo
+Time=2019-07-24 00:07:50.257857 Name=justinnguyenj Message=3:the fuck is going on
+Time=2019-07-24 00:07:53.604531 Name=justinnguyenj Message=1:i dont know
+Time=2019-07-24 00:08:05.418492 Name=tmi.twitch.tv 421 ch932 1 Message=HAHAHAHAHHAHHAHAHHA :Unknown command
+Time=2019-07-24 00:08:05.466465 Name=tmi.twitch.tv 421 ch932 2 Message=HELOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO :Unknown command
+Time=2019-07-24 00:09:12.037899 Name=justinnguyenj Message=1:shit
+Time=2019-07-24 00:09:15.100239 Name=justinnguyenj Message=2:shittt
+Time=2019-07-24 00:09:27.258074 Name=tmi.twitch.tv 421 ch932 1 Message=SHIT :Unknown command
+Time=2019-07-24 00:09:27.309772 Name=tmi.twitch.tv 421 ch932 2 Message=SHITTT :Unknown command

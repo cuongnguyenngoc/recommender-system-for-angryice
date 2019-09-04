@@ -1,0 +1,285 @@
+Time=2018-10-20 02:01:00.543658 Name=ch932 Message=hi
+Time=2018-10-20 02:01:03.963096 Name=ch932 Message=!next
+Time=2018-10-20 02:01:41.011510 Name=ch932 Message=test
+Time=2018-10-20 02:01:42.934846 Name=ch932 Message=!next
+Time=2018-10-20 02:02:00.639501 Name=ch932 Message=Good
+Time=2018-10-20 02:02:35.964869 Name=ch932 Message=!next
+Time=2018-10-20 02:03:21.434983 Name=ch932 Message=Run
+Time=2018-10-20 02:03:23.437859 Name=ch932 Message=!next
+Time=2018-10-20 02:04:03.710359 Name=ch932 Message=poom
+Time=2018-10-20 02:04:06.308089 Name=ch932 Message=!nxt
+Time=2018-10-20 02:04:10.295118 Name=ch932 Message=!next
+Time=2018-10-20 02:05:48.186947 Name=ch932 Message=poom
+Time=2018-10-20 02:05:51.099299 Name=ch932 Message=!next
+Time=2018-10-20 02:07:12.129983 Name=ch932 Message=!next
+Time=2018-10-20 19:40:38.597740 Name=ch932 Message=hi
+Time=2018-10-20 19:40:47.419463 Name=ch932 Message=!next
+Time=2018-10-20 19:41:03.877703 Name=ch932 Message=!next
+Time=2018-10-20 19:41:08.147930 Name=ch932 Message=!nexrt
+Time=2018-10-20 19:45:11.689125 Name=ch932 Message=hi
+Time=2018-10-20 19:45:13.865886 Name=ch932 Message=good
+Time=2018-10-20 19:45:21.437870 Name=ch932 Message=!next
+Time=2018-10-20 22:04:23.794950 Name=ch932 Message=hi
+Time=2018-10-24 04:24:23.283078 Name=ch932 Message=hi
+Time=2018-10-24 04:24:28.014780 Name=ch932 Message=!next
+Time=2018-10-24 04:25:31.708615 Name=ch932 Message=!next
+Time=2018-10-24 04:42:26.259111 Name=ch932 Message=Chat room joined!
+Time=2018-10-24 04:42:58.667803 Name=ch932 Message=hi
+Time=2018-10-24 04:43:00.353185 Name=ch932 Message=!next
+Time=2018-10-24 04:43:06.766881 Name=ch932 Message=ok
+Time=2018-10-24 04:43:11.615058 Name=ch932 Message=test it
+Time=2018-10-24 04:43:41.521949 Name=ch932 Message=!next
+Time=2018-10-24 04:43:46.286073 Name=ch932 Message=!next
+Time=2018-10-24 04:44:58.972776 Name=ch932 Message=!next
+Time=2018-10-24 04:45:01.711668 Name=ch932 Message=!next
+Time=2018-10-24 04:45:06.051043 Name=ch932 Message=!nexxt
+Time=2018-10-24 04:45:08.652759 Name=ch932 Message=!next
+Time=2018-10-24 04:46:18.291169 Name=ch932 Message=poom
+Time=2018-10-24 04:46:24.796913 Name=ch932 Message=!next
+Time=2018-10-24 04:59:14.096491 Name=ch932 Message=hi
+Time=2018-10-24 04:59:18.627551 Name=ch932 Message=guys
+Time=2018-10-24 05:00:39.006880 Name=ch932 Message=morning
+Time=2018-10-25 10:58:31.520036 Name=ch932 Message=hi
+Time=2018-10-25 11:00:06.200878 Name=ch932 Message=hi
+Time=2018-10-25 11:03:11.857129 Name=ch932 Message=Chat room joined!
+Time=2018-10-25 11:03:11.951726 Name=ch932 Message=Draw
+Time=2018-10-25 11:03:20.987378 Name=ch932 Message=hi
+Time=2018-10-25 11:03:23.417776 Name=ch932 Message=!next
+Time=2018-10-25 11:03:23.605473 Name=ch932 Message=Next level
+Time=2018-10-25 11:03:26.837415 Name=ch932 Message=Draw
+Time=2018-10-25 11:04:13.812245 Name=ch932 Message=!next
+Time=2018-10-25 11:04:14.019692 Name=ch932 Message=Next level
+Time=2018-10-25 11:04:14.861174 Name=ch932 Message=Draw
+Time=2018-10-25 11:04:49.928013 Name=ch932 Message=!next
+Time=2018-10-25 11:04:50.129929 Name=ch932 Message=Next level
+Time=2018-10-25 11:04:50.874948 Name=ch932 Message=Draw
+Time=2018-10-25 11:05:27.332011 Name=ch932 Message=hello world
+Time=2018-10-25 11:05:59.910554 Name=ch932 Message=Draw
+Time=2018-10-25 11:09:09.575174 Name=ch932 Message=B win
+Time=2018-10-25 11:11:24.624956 Name=ch932 Message=Draw
+Time=2018-11-03 23:58:25.024657 Name=ch932 Message=!next
+Time=2018-11-03 23:59:30.567592 Name=ch932 Message=!bg1
+Time=2018-11-03 23:59:32.157037 Name=ch932 Message=!bg1
+Time=2018-11-03 23:59:33.946614 Name=ch932 Message=!bg1
+Time=2018-11-03 23:59:35.057207 Name=ch932 Message=!bg1
+Time=2018-11-03 23:59:38.043368 Name=ch932 Message=!next
+Time=2018-11-04 00:00:57.814462 Name=ch932 Message=!am
+Time=2018-11-04 00:00:59.230650 Name=ch932 Message=!am
+Time=2018-11-04 00:01:04.383092 Name=ch932 Message=!al
+Time=2018-11-04 00:01:06.058526 Name=ch932 Message=!a
+Time=2018-11-04 00:01:07.391875 Name=ch932 Message=!al
+Time=2018-11-04 00:02:17.806753 Name=ch932 Message=hello world
+Time=2018-11-05 06:42:53.110544 Name=ch932 Message=1bg1
+Time=2018-11-05 06:42:57.932177 Name=ch932 Message=!bg1
+Time=2018-11-05 06:43:08.393742 Name=ch932 Message=!next
+Time=2018-11-05 06:43:20.343626 Name=ch932 Message=!bg1
+Time=2018-11-05 06:43:23.594795 Name=ch932 Message=!next
+Time=2018-11-05 06:51:18.839651 Name=ch932 Message=!bg1
+Time=2018-11-05 06:59:57.142675 Name=ch932 Message=!bg2
+Time=2018-11-05 13:08:03.791893 Name=ch932 Message=!bg3
+Time=2018-12-12 12:55:34.752475 Name=ch932 Message=ok
+Time=2018-12-12 12:55:36.297591 Name=ch932 Message=now
+Time=2018-12-12 12:55:52.143511 Name=ch932 Message=HOw other users can join this live stream bro?
+Time=2018-12-12 12:57:16.469290 Name=chouligen Message=hello
+Time=2018-12-12 12:57:20.415431 Name=chouligen Message=i can join
+Time=2018-12-12 12:57:31.550728 Name=chouligen Message=but no other to join this
+Time=2018-12-12 12:57:42.076081 Name=chouligen Message=because there don't have this channel
+Time=2018-12-12 12:59:12.758082 Name=ch932 Message=so please make my user join bro
+Time=2018-12-12 12:59:19.979519 Name=ch932 Message=justinnguyenj
+Time=2018-12-12 12:59:37.599356 Name=chouligen Message=u can try by your phone
+Time=2018-12-12 13:00:13.893695 Name=justinnguyenj Message=hello
+Time=2018-12-12 13:00:19.703719 Name=justinnguyenj Message=hmm
+Time=2018-12-12 13:00:33.323508 Name=justinnguyenj Message=so now I want to get my user info
+Time=2018-12-12 13:00:40.333785 Name=justinnguyenj Message=and your user info
+Time=2018-12-12 13:00:50.752265 Name=justinnguyenj Message=all user info in this live stream chat
+Time=2018-12-12 13:00:57.073291 Name=justinnguyenj Message=how bro?
+Time=2018-12-13 10:28:11.194622 Name=justinnguyenj Message=hello
+Time=2018-12-13 10:28:23.669360 Name=justinnguyenj Message=hi
+Time=2018-12-13 10:28:37.793243 Name=ch932 Message=hi man
+Time=2019-02-13 14:59:09.052661 Name=ch932 Message=hello
+Time=2019-02-13 15:00:14.698298 Name=justinnguyenj Message=hi
+Time=2019-02-13 15:00:32.246579 Name=justinnguyenj Message=hello
+Time=2019-02-13 15:00:41.492052 Name=justinnguyenj Message=how to know that I'm joining chat
+Time=2019-02-13 15:38:54.448332 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:39:04.421475 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:39:14.421210 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:39:24.422213 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:39:34.423003 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:39:44.424441 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:39:54.424247 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:40:04.426004 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:40:14.427038 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:40:24.427307 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:40:34.428445 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:40:44.427804 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:40:54.427476 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:41:04.427660 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:41:14.428266 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:41:24.428696 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:41:34.430735 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:41:45.200496 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:41:54.430849 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:42:04.432648 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:42:14.431576 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:42:24.431717 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:42:34.432634 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:42:44.434512 Name=tmi.twitch.tv 421 ch932 PLEASE  Message=Unknown command
+Time=2019-02-13 15:59:50.583618 Name=ch932 Message=!bg1
+Time=2019-02-13 16:02:42.303910 Name=ch932 Message=Chat room joined!
+Time=2019-02-13 16:02:46.833594 Name=ch932 Message=Please vote which picture you prefer
+Time=2019-02-13 16:02:57.893359 Name=ch932 Message=!bg1
+Time=2019-02-13 16:02:57.897357 Name=ch932 Message=!bg1
+Time=2019-02-13 16:03:08.633252 Name=ch932 Message=Please vote pictures with rate from 1 to 10
+Time=2019-02-13 16:04:08.629318 Name=ch932 Message=Please vote pictures with rate from 1 to 10
+Time=2019-02-13 16:04:22.047697 Name=ch932 Message=Draw
+Time=2019-02-15 13:30:49.413950 Name=ch932 Message=Chat room joined!
+Time=2019-02-15 13:30:53.130292 Name=ch932 Message=Please vote which picture you prefer
+Time=2019-02-15 13:32:45.954150 Name=ch932 Message=B win
+Time=2019-02-15 13:34:38.548625 Name=justinnguyenj Message=hello
+Time=2019-02-17 15:17:17.886593 Name=justinnguyenj Message=hi
+Time=2019-02-17 15:22:48.702024 Name=justinnguyenj Message=1:beautiful
+Time=2019-02-17 15:35:00.878896 Name=justinnguyenj Message=1:nature
+Time=2019-02-17 15:37:15.873641 Name=ch932 Message=Chat room joined!
+Time=2019-02-17 15:37:20.147780 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "picname:discription"
+Time=2019-02-17 15:38:01.509348 Name=justinnguyenj Message=1:women is working with rice
+Time=2019-02-17 15:38:01.513346 Name=justinnguyenj Message=1:women is working with rice
+Time=2019-02-17 15:38:52.473510 Name=ch932 Message=Draw
+Time=2019-02-17 15:38:57.147836 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "picname:discription"
+Time=2019-02-17 22:18:06.429967 Name=justinnguyenj Message=1:people are in a market
+Time=2019-02-17 22:21:59.808304 Name=justinnguyenj Message=1:a peaceful village
+Time=2019-02-17 22:24:45.055844 Name=justinnguyenj Message=1:a rice field
+Time=2019-02-22 07:40:40.808929 Name=unixcf Message=KappaPride
+Time=2019-02-22 09:03:05.865331 Name=justinnguyenj Message=2:2 women talking next to a lake
+Time=2019-02-23 13:11:41.942431 Name=ch932 Message=Chat room joined!
+Time=2019-02-23 13:11:44.930510 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "picordernum:discription"
+Time=2019-02-23 13:12:34.269795 Name=ch932 Message=A win
+Time=2019-02-23 13:12:39.842112 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "picordernum:discription"
+Time=2019-02-23 13:42:34.547301 Name=ch932 Message=Chat room joined!
+Time=2019-02-23 13:42:36.835133 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "picordernum:discription"
+Time=2019-02-23 13:44:25.598511 Name=ch932 Message=A win
+Time=2019-02-23 13:44:30.326122 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "picordernum:discription"
+Time=2019-02-26 11:28:04.294945 Name=justinnguyenj Message=2:some sailboat is in the sea
+Time=2019-02-26 11:29:53.841013 Name=justinnguyenj Message=1:a sailboat is struggling with huge sea wages
+Time=2019-02-26 11:32:42.542722 Name=justinnguyenj Message=2:some houses next to a huge lake with some trees
+Time=2019-02-26 11:33:31.822419 Name=justinnguyenj Message=3:some people they are playing game
+Time=2019-02-26 11:34:09.303404 Name=justinnguyenj Message=1:farmers are resting at a resting house
+Time=2019-02-26 11:34:37.195619 Name=justinnguyenj Message=2:2 women and a kid
+Time=2019-02-26 11:35:37.225641 Name=justinnguyenj Message=2:snow is covering trees and houses
+Time=2019-02-26 15:33:34.942733 Name=ch932 Message=2:a woman is outside a room and a man is inside the room
+Time=2019-02-26 15:35:01.251204 Name=justinnguyenj Message=2:there are bunch of men are pushing rock
+Time=2019-02-26 15:35:32.053408 Name=justinnguyenj Message=3:a woman is looking
+Time=2019-02-26 15:36:44.316587 Name=justinnguyenj Message=1: a person is playing monochord
+Time=2019-02-26 15:39:18.731273 Name=justinnguyenj Message=2: a lonely man is riding cow on a road covering with white snow
+Time=2019-02-26 15:40:40.720186 Name=justinnguyenj Message=1: 2 women is looking back to an old man
+Time=2019-02-26 15:41:40.903598 Name=justinnguyenj Message=2: a teacher is teaching a student studying
+Time=2019-02-26 15:45:35.991218 Name=justinnguyenj Message=1:a woman is looking deeply up to sky
+Time=2019-02-26 16:26:03.754775 Name=justinnguyenj Message=2: a man is trying to move a water wheel
+Time=2019-03-03 19:11:46.468461 Name=ch932 Message=Chat room joined!
+Time=2019-03-03 19:12:29.673032 Name=ch932 Message=Chat room joined!
+Time=2019-03-03 19:12:34.448275 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "picordernum:discription"
+Time=2019-03-03 19:13:10.158104 Name=ch932 Message=A win
+Time=2019-03-03 19:13:39.690376 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "picordernum:discription"
+Time=2019-03-04 00:12:57.105984 Name=tsors Message=ACTION cellHmm
+Time=2019-03-04 00:12:57.110981 Name=tsors Message=ACTION cellHmm
+Time=2019-03-04 08:00:03.976764 Name=ch932 Message=Chat room joined!
+Time=2019-03-04 08:00:39.228281 Name=ch932 Message=Chat room joined!
+Time=2019-03-04 08:01:28.015198 Name=ch932 Message=A win
+Time=2019-03-04 08:02:08.683667 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "picordernum:discription"
+Time=2019-03-04 08:07:50.514423 Name=ch932 Message=Chat room joined!
+Time=2019-03-04 08:07:55.334880 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "picordernum:discription"
+Time=2019-03-04 08:09:20.810785 Name=ch932 Message=B win
+Time=2019-03-04 08:10:11.967221 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "picordernum:discription"
+Time=2019-04-17 01:10:08.683270 Name=justinnguyenj Message=3:a woman is looking at her hand
+Time=2019-04-17 02:10:32.480141 Name=justinnguyenj Message=1: not clear picture
+Time=2019-04-17 02:10:51.763681 Name=justinnguyenj Message=3: hello there
+Time=2019-04-17 02:11:47.641526 Name=justinnguyenj Message=1: what's that?
+Time=2019-04-17 02:13:22.456788 Name=justinnguyenj Message=1:some boat on a huge river
+Time=2019-04-17 02:22:42.912984 Name=justinnguyenj Message=3:a peaceful village
+Time=2019-04-17 02:23:44.065229 Name=justinnguyenj Message=1:a man is looking to another man
+Time=2019-04-17 02:24:10.564900 Name=justinnguyenj Message=2:an empty picture
+Time=2019-04-17 02:34:17.506690 Name=justinnguyenj Message=2:a prince is looking out from a window
+Time=2019-04-17 02:35:19.013451 Name=justinnguyenj Message=1:an empty picture
+Time=2019-04-17 02:38:27.953597 Name=justinnguyenj Message=2:people are talking on a village street
+Time=2019-04-17 02:44:42.695360 Name=justinnguyenj Message=3:people going around a building
+Time=2019-04-17 02:45:23.777674 Name=justinnguyenj Message=2:hello hello
+Time=2019-04-17 02:54:46.128947 Name=justinnguyenj Message=1:a man is holding a sword
+Time=2019-07-09 22:12:16.313071 Name=justinnguyenj Message=1:some people are sailing on two river
+Time=2019-07-09 22:32:26.291071 Name=ch932 Message=Chat room joined!
+Time=2019-07-09 22:32:26.425955 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "imageID:discription"
+Time=2019-07-09 22:32:26.479923 Name=ch932 Message=B win
+Time=2019-07-09 23:13:12.888343 Name=justinnguyenj Message=2: there are some people are climbing to a temple on a moutain
+Time=2019-07-09 23:13:12.888343 Name=justinnguyenj Message=2: there are some people are climbing to a temple on a moutain
+Time=2019-07-09 23:14:43.172222 Name=ch932 Message=Chat room joined!
+Time=2019-07-09 23:14:43.313140 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "imageID:discription"
+Time=2019-07-09 23:14:43.366299 Name=ch932 Message=Draw
+Time=2019-07-09 23:15:09.880756 Name=justinnguyenj Message=2: there are some people are climbing to a temple on a moutain
+Time=2019-07-09 23:15:09.981697 Name=justinnguyenj Message=2: there are some people are climbing to a temple on a moutain
+Time=2019-07-09 23:28:50.560486 Name=justinnguyenj Message=1: 2 men are fighting
+Time=2019-07-09 23:28:50.562484 Name=justinnguyenj Message=1: 2 men are fighting
+Time=2019-07-09 23:33:17.557172 Name=ch932 Message=Chat room joined!
+Time=2019-07-09 23:33:17.723077 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "imageID:discription"
+Time=2019-07-09 23:33:44.035601 Name=justinnguyenj Message=3:people are growing rice
+Time=2019-07-09 23:33:44.037600 Name=justinnguyenj Message=3:people are growing rice
+Time=2019-07-10 01:33:11.567819 Name=ch932 Message=Chat room joined!
+Time=2019-07-10 01:33:11.668762 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "imageID:discription"
+Time=2019-07-10 01:34:08.336853 Name=ch932 Message=1:there are some men are having fun on a river
+Time=2019-07-10 01:34:08.337853 Name=ch932 Message=1:there are some men are having fun on a river
+Time=2019-07-10 01:34:50.109324 Name=ch932 Message=3:there is a big boat on a river and there are some birds are flying
+Time=2019-07-10 01:39:13.608929 Name=ch932 Message=Chat room joined!
+Time=2019-07-10 01:39:13.752208 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "imageID:discription"
+Time=2019-07-10 01:39:31.765084 Name=ch932 Message=1:there are some men are having fun on a river
+Time=2019-07-10 01:39:37.922026 Name=ch932 Message=3:there is a big boat on a river and there are some birds are flying
+Time=2019-07-10 01:39:37.923026 Name=ch932 Message=3:there is a big boat on a river and there are some birds are flying
+Time=2019-07-10 01:42:11.376069 Name=ch932 Message=Chat room joined!
+Time=2019-07-10 01:42:11.551970 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "imageID:discription"
+Time=2019-07-10 01:42:31.215591 Name=ch932 Message=Chat room joined!
+Time=2019-07-10 01:42:31.325528 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "imageID:discription"
+Time=2019-07-10 01:42:45.772157 Name=ch932 Message=1:there are some men are having fun on a river
+Time=2019-07-10 01:42:45.773157 Name=ch932 Message=1:there are some men are having fun on a river
+Time=2019-07-10 01:42:51.913767 Name=ch932 Message=3:there is a big boat on a river and there are some birds are flying
+Time=2019-07-10 01:42:51.913767 Name=ch932 Message=3:there is a big boat on a river and there are some birds are flying
+Time=2019-07-10 01:43:43.259662 Name=ch932 Message=B win
+Time=2019-07-10 01:45:09.596762 Name=ch932 Message=Chat room joined!
+Time=2019-07-10 01:45:09.751672 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "imageID:discription"
+Time=2019-07-10 01:45:26.700582 Name=ch932 Message=1:there are some men are having fun on a river
+Time=2019-07-10 01:45:26.701582 Name=ch932 Message=1:there are some men are having fun on a river
+Time=2019-07-10 01:45:45.582328 Name=justinnguyenj Message=1:there are some men are having fun on a river
+Time=2019-07-10 01:45:45.583329 Name=justinnguyenj Message=1:there are some men are having fun on a river
+Time=2019-07-10 01:45:51.959171 Name=justinnguyenj Message=3:there is a big boat on a river and there are some birds are flying
+Time=2019-07-10 01:45:51.960170 Name=justinnguyenj Message=3:there is a big boat on a river and there are some birds are flying
+Time=2019-07-10 01:46:23.006274 Name=justinnguyenj Message=#3
+Time=2019-07-10 01:46:23.007274 Name=justinnguyenj Message=#3
+Time=2019-07-10 01:49:53.583144 Name=ch932 Message=Chat room joined!
+Time=2019-07-10 01:49:53.729997 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "imageID:discription"
+Time=2019-07-10 01:50:32.116338 Name=justinnguyenj Message=1:a forest
+Time=2019-07-10 01:50:32.116338 Name=justinnguyenj Message=1:a forest
+Time=2019-07-10 01:51:25.396820 Name=justinnguyenj Message=#1
+Time=2019-07-10 01:51:25.398820 Name=justinnguyenj Message=#1
+Time=2019-07-10 01:55:24.671987 Name=ch932 Message=Chat room joined!
+Time=2019-07-10 01:55:24.783923 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "imageID:discription"
+Time=2019-07-10 01:56:39.000344 Name=justinnguyenj Message=#1
+Time=2019-07-10 01:56:39.000344 Name=justinnguyenj Message=#1
+Time=2019-07-10 02:01:11.893765 Name=ch932 Message=Chat room joined!
+Time=2019-07-10 02:01:11.894765 Name=ch932 Message=Chat room joined!
+Time=2019-07-10 02:01:12.080314 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "imageID:discription"
+Time=2019-07-10 02:01:12.080314 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "imageID:discription"
+Time=2019-07-10 02:01:44.660742 Name=justinnguyenj Message=#1
+Time=2019-07-10 02:01:44.662739 Name=justinnguyenj Message=#1
+Time=2019-07-10 02:01:44.662739 Name=justinnguyenj Message=#1
+Time=2019-07-10 02:03:28.608272 Name=ch932 Message=Chat room joined!
+Time=2019-07-10 02:03:28.728203 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "imageID:discription"
+Time=2019-07-10 02:03:52.405514 Name=justinnguyenj Message=#3
+Time=2019-07-10 02:03:52.406513 Name=justinnguyenj Message=#3
+Time=2019-07-10 02:04:19.651646 Name=justinnguyenj Message=#1
+Time=2019-07-10 11:47:29.424965 Name=ch932 Message=Chat room joined!
+Time=2019-07-10 11:47:29.526906 Name=ch932 Message=Please vote and describe pictures on the left of screen you prefer follow format "imageID:discription"
+Time=2019-07-10 11:48:46.787800 Name=ch932 Message=1: some people are walking
+Time=2019-07-10 11:48:46.789799 Name=ch932 Message=1: some people are walking
+Time=2019-07-10 11:49:35.487516 Name=ch932 Message=Draw
+Time=2019-07-10 11:49:59.019862 Name=justinnguyenj Message=1:some people are walking
+Time=2019-07-10 11:49:59.021861 Name=justinnguyenj Message=1:some people are walking
+Time=2019-07-10 11:50:51.171121 Name=justinnguyenj Message=#1
+Time=2019-07-10 11:50:51.172120 Name=justinnguyenj Message=#1
+Time=2019-07-10 11:51:31.406512 Name=ebinkatsu Message=3: is a temple
+Time=2019-07-10 11:51:31.407511 Name=ebinkatsu Message=3: is a temple
+Time=2019-07-10 11:52:25.457738 Name=ebinkatsu Message=3: couple are fishing

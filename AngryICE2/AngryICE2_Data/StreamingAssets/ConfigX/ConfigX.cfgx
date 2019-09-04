@@ -1,0 +1,6 @@
+on,off,A,50
+//CountDown,ShootCommand,CollectApproach
+//on/off,on/off,A/B/C,0 or >=1 Limited Level Number
+//A RealTime
+//B Collected All Command and only do 1 time Before Lauch
+//C Collected All Command and only do the most command
