@@ -12,6 +12,8 @@ class BotNotifier:
         self.botTwitch = botTwitch
         self.utils = Utils.Utils()
 
+        self.audiences = None
+
         self.botTwitch.giving_stop_voting_signal(text) # stop voting at the beginning
 
         
@@ -86,7 +88,10 @@ class BotNotifier:
         self.botTwitch.giving_stop_voting_signal(text)
 
         self.botTwitch.setGameSession() # increase game session to next round
-        self.botTwitch.refresh_players_and_desid()
+        self.botTwitch.refresh_desid()
+        
+
+        self.audiences.refresh_players()
         self.artManager.refresh()
     
     def showing_winner(self):
@@ -101,7 +106,8 @@ class BotNotifier:
             else:
                 text = text + "    No winner for image " + img_id + "\n"
         
-        winning_participants = self.botTwitch.get_participants_results(images)
+        self.audiences = self.botTwitch.get_updated_audiences()
+        winning_participants = self.audiences.get_participants_results(images)
 
         for u, value in winning_participants.items():
             game_session = self.botTwitch.getGameSession()

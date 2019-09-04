@@ -1,6 +1,6 @@
 import socket, time, datetime, re
 
-import Utils
+import Utils, Audiences
 
 class BotTwitch:
 
@@ -20,10 +20,10 @@ class BotTwitch:
         self.game_session = self.utils.get_last_game_session() + 1
         # self.game_session = 0
 
-        self.describers = {} ### {u8: {img1: {d1: "description"}, img2: {d6: "description"}}, u9:...}
+        self.audiences = Audiences.Audiences()
+        self.describers = self.audiences.get_describers()
         self.des_id = 0
-        self.voters = {} ### {img1: {d1: [u1, u2, u3], d2: [u4, u5]}, img2:...}
-        self.participants = {}
+        self.voters = self.audiences.get_voters()
 
         ### Code start runs
         self.s_prep = socket.socket()
@@ -34,12 +34,12 @@ class BotTwitch:
 
         self.joinchat()
         self.readbuffer = ""
-    
-    def get_describers(self):
-        return self.describers
-    
-    def get_voters(self):
-        return self.voters
+
+    def get_updated_audiences(self):
+        self.audiences.set_describers(self.describers)
+        self.audiences.set_voters(self.voters)
+
+        return self.audiences
     
     def get_descriptions(self):
         des = {}
@@ -57,9 +57,7 @@ class BotTwitch:
                     return k
         return None
 
-    def refresh_players_and_desid(self):
-        self.describers = {}
-        self.voters = {}
+    def refresh_desid(self):
         self.des_id = 0
 
     def get_winning_des_id_foreach_img(self, img_id):
@@ -76,57 +74,6 @@ class BotTwitch:
                 w_des_list.append(winning_des)
         
         return w_des_list
-
-    def get_participants_results(self, images):
-
-        if bool(self.voters): # do all this when voters do something, means there is some winning description
-            winning_des_list = self.get_winning_des_list(images)
-
-            for img_id, des_list in self.voters.items(): ## calculate or update scores for all voters who voted winning descriptions this game session
-                for d, u_list in des_list.items():
-                    if d in winning_des_list:
-                        for u in u_list:
-                            old_score = 0
-                            prop = {}
-                            if u in self.participants:
-                                prop = self.participants.get(u)
-                                old_score = prop.get("total_score")
-                            
-                            prop[self.game_session] = {"img": images.get(img_id), "des": [d], "role": "voter", "added_score": len(u_list)}
-                            prop["total_score"] = old_score + len(u_list)
-                            self.participants[u] = prop
-            
-            for u, imgs in self.describers.items(): ## calculate or update scores for all describers who created winning descriptions this game session
-                d_ids = []
-                new_score = 0
-                added_score = 0
-                prop = {}
-                for img_id, d in imgs.items():
-                    d_id = next(iter(d))
-                    if d_id in winning_des_list:
-                        d_ids.append(d_id)
-                        u_list = self.voters.get(img_id).get(d_id)
-                        added_score = len(u_list)
-                        old_score = 0
-                        if u in self.participants:
-                            prop = self.participants.get(u)
-                            old_score = prop.get("total_score")
-                        new_score = old_score + added_score
-                if d_ids and new_score > 0: # update only descriptions he created won
-                    prop[self.game_session] = {"img": images.get(img_id), "des": d_ids, "role": "describer", "added_score": added_score}
-                    prop["total_score"] = new_score
-                    self.participants[u] = prop
-        
-        return self.participants
-
-    def get_top_participants(self):
-        top_participants = None
-        if bool(self.participants):
-            top_participants = sorted(self.participants.items(), key=lambda x: x[1].get("total_score"), reverse=True)
-            if len(self.participants) >= 3:
-                top_participants = top_participants[:3]
-        
-        return top_participants
 
     def joinchat(self):
         readbuffer_join = "".encode()
