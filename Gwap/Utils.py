@@ -154,7 +154,7 @@ class Utils:
         return game_session
 
     def store_winning_user(self, user, game_session, game_session_value):
-        f = open("winning_users_log", "a")
+        f = open("winning_users_log.txt", "a")
         f.write(str(game_session) + "," + user + "," + game_session_value.get("img") + 
                 "," + game_session_value.get("des") + "," + game_session_value.get("role"))
 

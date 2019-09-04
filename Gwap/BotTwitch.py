@@ -78,28 +78,6 @@ class BotTwitch:
         return w_des_list
 
     def get_participants_results(self, images):
-        # for des_list in self.voters.values():
-        #     for d_lst in des_list:
-        #         for d, u_list in d_lst.items():
-        #             for u in u_list:
-        #                 self.participants[u] = {str(self.game_session): {"des": [d], "role": "voter"}, "score": 0}
-        
-        # for u, images in self.describers.items():
-        #     d_ids = []
-        #     for d_s in images.values():
-        #         for d in d_s:
-        #             for d_id in d:
-        #                 d_ids.append(d)
-        #     self.participants[u] = {str(self.game_session): {"des": d_ids, "role": "describer"}, "score": 0}
-
-        # # calculate or update scores for all participants who created or voted winning descriptions this game session
-        # for uid in self.participants: 
-        #     for des_lst in self.voters.values():
-        #         for d_lst in des_lst:
-        #             for d, u_s in d_lst.items():
-        #                 if d in self.get_winning_des_list():
-        #                     if uid in u_s:
-        #                         self.participants.get(uid)["score"] = self.participants.get(uid).get("score") + len(u_s)
 
         if bool(self.voters): # do all this when voters do something, means there is some winning description
             winning_des_list = self.get_winning_des_list(images)
