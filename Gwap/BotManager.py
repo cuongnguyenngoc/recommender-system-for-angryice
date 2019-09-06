@@ -89,6 +89,9 @@ class BotNotifier:
         self.botTwitch.refresh_desid()
         
         self.botTwitch.get_audiences().refresh_players()
+        if bool(self.botTwitch.get_audiences().get_describers()):
+            self.botTwitch.sendMessage("some people are describers as default. And If your description u voted before is bad, please improve your description to get more vote")
+        
         self.artManager.refresh()
     
     def showing_winner(self):

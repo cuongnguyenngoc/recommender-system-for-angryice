@@ -1,9 +1,13 @@
+import Utils
 
 class Audiences:
 
     def __init__(self):
+        self.utils = Utils.Utils()
         self.voters = {}
-        self.describers = {} ### {u8: {img1: {d1: "description"}, img2: {d6: "description"}}, u9:...}
+        
+        ### {u8: {img1: {d1: "description"}, img2: {d6: "description"}}, u9:...}
+        self.describers = self.utils.transform_former_voters_to_describers_if_img_shown_again()[1]
         self.participants = {} ### {img1: {d1: [u1, u2, u3], d2: [u4, u5]}, img2:...}
     
     def set_voters(self, voters):
@@ -29,7 +33,7 @@ class Audiences:
     
 
     def refresh_players(self):
-        self.describers = {}
+        self.describers = self.utils.transform_former_voters_to_describers_if_img_shown_again()[1]
         self.voters = {}
     
     def get_winning_des_id_foreach_img(self, img_id):
