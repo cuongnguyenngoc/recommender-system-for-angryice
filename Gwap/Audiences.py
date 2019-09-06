@@ -32,7 +32,22 @@ class Audiences:
         self.describers = {}
         self.voters = {}
     
-    def get_participants_results(self, images):
+    def get_winning_des_id_foreach_img(self, img_id):
+        if img_id in self.voters:
+            return sorted(self.voters.get(img_id).items(), key=lambda x: len(x[1]))[-1][0]
+        else:
+            return None
+
+    def get_winning_des_list(self, images):
+        w_des_list = []
+        for img_id in images:
+            winning_des_id = self.get_winning_des_id_foreach_img(img_id)
+            if winning_des_id is not None:
+                w_des_list.append(winning_des_id)
+        
+        return w_des_list
+    
+    def get_participants_results(self, images, game_session):
 
         if bool(self.voters): # do all this when voters do something, means there is some winning description
             winning_des_list = self.get_winning_des_list(images)
@@ -47,7 +62,7 @@ class Audiences:
                                 prop = self.participants.get(u)
                                 old_score = prop.get("total_score")
                             
-                            prop[self.game_session] = {"img": images.get(img_id), "des": [d], "role": "voter", "added_score": len(u_list)}
+                            prop[game_session] = {"img": images.get(img_id), "des_ids": [d], "role": "voter", "added_score": len(u_list)}
                             prop["total_score"] = old_score + len(u_list)
                             self.participants[u] = prop
             
@@ -68,7 +83,7 @@ class Audiences:
                             old_score = prop.get("total_score")
                         new_score = old_score + added_score
                 if d_ids and new_score > 0: # update only descriptions he created won
-                    prop[self.game_session] = {"img": images.get(img_id), "des": d_ids, "role": "describer", "added_score": added_score}
+                    prop[game_session] = {"img": images.get(img_id), "des_ids": d_ids, "role": "describer", "added_score": added_score}
                     prop["total_score"] = new_score
                     self.participants[u] = prop
         

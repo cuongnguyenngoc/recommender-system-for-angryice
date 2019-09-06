@@ -2968,3 +2968,635 @@ Time=2019-09-03 00:51:27.380434 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown
 Time=2019-09-03 00:52:48.863469 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
 Time=2019-09-03 00:52:48.887455 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
 Time=2019-09-03 00:54:09.603448 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 16:55:29.077143 Name=ch932 Message=Chat room joined!
+Time=2019-09-05 16:55:29.454927 Name=ch932 Message=Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-05 16:56:47.537351 Name=ch932 Message=Chat room joined!
+Time=2019-09-05 16:56:47.545347 Name=ch932 Message=Chat room joined!
+Time=2019-09-05 16:56:47.926130 Name=ch932 Message=Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-05 16:56:47.932126 Name=ch932 Message=Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-05 17:02:43.419107 Name=justinnguyenj Message=the fuck
+Time=2019-09-05 17:02:56.390996 Name=justinnguyenj Message=1:haha
+Time=2019-09-05 17:03:05.388887 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 17:03:05.421868 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 17:03:05.548797 Name=justinnguyenj Message=#1
+Time=2019-09-05 17:03:25.032823 Name=justinnguyenj Message=1:a man is having sex with a woman
+Time=2019-09-05 17:04:03.866228 Name=cuongnguyenngocnsm Message=#1
+Time=2019-09-05 17:04:10.490262 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 17:04:12.310352 Name=cuongnguyenngocnsm Message=#2
+Time=2019-09-05 17:04:15.367048 Name=cuongnguyenngocnsm Message=#1
+Time=2019-09-05 17:04:21.457414 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 17:06:43.489324 Name=justinnguyenj Message=1:a man is having sex with a woman
+Time=2019-09-05 17:07:26.034535 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 17:07:30.574636 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 17:07:40.925326 Name=cuongnguyenngocnsm Message=#1
+Time=2019-09-05 17:07:44.299775 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 17:10:20.098603 Name=justinnguyenj Message=3:a man is teaching kids play with swords with fun
+Time=2019-09-05 17:10:34.897008 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 17:10:41.275975 Name=cuongnguyenngocnsm Message=#2
+Time=2019-09-05 17:10:44.269077 Name=cuongnguyenngocnsm Message=#1
+Time=2019-09-05 17:10:46.371151 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 17:13:11.597621 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 17:13:11.649592 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 17:13:56.471493 Name=cuongnguyenngocnsm Message=3: two men are sailing boat on a river
+Time=2019-09-05 17:14:06.152127 Name=justinnguyenj Message=#0
+Time=2019-09-05 17:14:17.035412 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 17:14:21.373479 Name=justinnguyenj Message=#1
+Time=2019-09-05 17:14:24.158210 Name=justinnguyenj Message=#0
+Time=2019-09-05 17:18:56.617072 Name=justinnguyenj Message=3:many people are walking over a bridge over a river
+Time=2019-09-05 17:19:08.734809 Name=cuongnguyenngocnsm Message=#1
+Time=2019-09-05 17:19:29.530984 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 17:19:34.168996 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 17:22:07.759137 Name=justinnguyenj Message=1:a man holding his baby walking lonely under the rain
+Time=2019-09-05 17:22:46.898352 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 17:22:51.384197 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 17:36:14.453205 Name=justinnguyenj Message=1:black, all black
+Time=2019-09-05 17:38:59.873175 Name=justinnguyenj Message=2:trees, trees everywhere
+Time=2019-09-05 17:39:45.779100 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 17:39:53.145922 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 17:53:25.874619 Name=justinnguyenj Message=3:a couple are happy together on a bridge
+Time=2019-09-05 17:53:57.528861 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 17:54:07.176907 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 17:54:14.011782 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 17:54:14.059754 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 17:55:19.333836 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 17:55:35.840147 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 17:55:35.875129 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 17:56:41.215974 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 17:57:21.719015 Name=justinnguyenj Message=2: two men are fishing
+Time=2019-09-05 17:58:05.872469 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 17:58:12.556390 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 17:59:26.268447 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:00:47.147483 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:02:09.157551 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:03:30.043877 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:04:51.524066 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:06:13.431433 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:07:34.156128 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:08:54.799258 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:10:15.575519 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:11:37.232720 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:12:57.994994 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:14:18.845869 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:15:40.435275 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:17:01.793135 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:18:22.162345 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:19:43.237970 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:21:04.872561 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:22:25.661060 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:23:47.466451 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:25:08.545137 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:26:31.328450 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:27:53.171876 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:29:14.423937 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:30:36.073898 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:31:56.723122 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:33:18.124045 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:34:39.428469 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:36:00.883836 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:37:40.461709 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:39:01.827623 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:40:23.293002 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:42:02.207059 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:43:41.134226 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:45:20.095648 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:46:42.572713 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:48:21.949197 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:50:01.939840 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:51:40.906175 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:53:01.395520 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:54:40.316772 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:56:02.526938 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:57:41.473176 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 18:59:03.272318 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:00:24.970618 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:01:46.503821 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:03:09.566580 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:04:30.792546 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:05:53.474812 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:07:15.608124 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:08:37.490067 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:09:58.217564 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:11:19.094753 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:12:40.851696 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:14:02.478813 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:15:23.020065 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:16:44.868189 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:18:06.563458 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:19:29.336646 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:20:50.901711 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:22:11.686646 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:23:34.493308 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:24:55.898069 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:26:16.900183 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:27:38.272212 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:29:00.036655 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:30:22.014952 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:31:43.111417 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:33:05.391791 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:34:27.326427 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:35:48.102704 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:37:10.700330 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:38:31.593476 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:39:53.150734 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:41:15.056963 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:42:35.836796 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:43:57.946295 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:45:20.322169 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:46:41.199846 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:48:02.153961 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:49:23.794695 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:50:46.103403 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:52:07.136266 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:53:28.094550 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:54:48.591303 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:56:10.795975 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:57:32.350294 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 19:58:54.325789 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:00:15.798089 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:01:36.651080 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:02:57.262438 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:04:18.045668 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:05:39.854295 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:07:00.488610 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:08:23.108819 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:09:44.595356 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:11:06.040478 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:12:28.121611 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:13:49.830685 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:15:11.349953 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:16:33.223845 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:17:54.656465 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:19:16.165022 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:20:36.591315 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:21:58.322766 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:23:20.269543 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:24:41.359995 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:26:02.259366 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:27:24.200165 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:28:44.908370 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:30:06.668413 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:31:28.997719 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:32:50.563655 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:34:12.816905 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:35:34.386168 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:36:56.588276 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:38:19.339238 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:39:41.105759 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:41:02.979155 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:42:24.538676 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:43:47.025143 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:45:07.554387 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:46:29.360130 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:47:50.350867 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:49:11.111682 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:50:32.003868 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:51:53.763071 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:53:17.022267 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:54:38.094018 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:55:01.651138 Name=ch932 Message=Chat room joined!
+Time=2019-09-05 20:55:02.137509 Name=ch932 Message=Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-05 20:58:56.174847 Name=justinnguyenj Message=1:hahahkaka
+Time=2019-09-05 20:59:41.640745 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 20:59:56.977665 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 20:59:57.023738 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 21:01:02.053827 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 21:01:13.643005 Name=cuongnguyenngocnsm Message=#1
+Time=2019-09-05 21:01:16.560655 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 21:01:19.459346 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 21:01:19.520311 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 21:01:46.153904 Name=justinnguyenj Message=1:kekekeke
+Time=2019-09-05 21:02:03.330114 Name=justinnguyenj Message=2:takta
+Time=2019-09-05 21:07:55.566966 Name=justinnguyenj Message=1:very lively city
+Time=2019-09-05 21:08:33.028890 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 21:08:37.129916 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 21:08:39.885708 Name=cuongnguyenngocnsm Message=#1
+Time=2019-09-05 21:08:44.169391 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 21:08:49.398933 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 21:08:49.451902 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 21:09:01.890861 Name=justinnguyenj Message=#1
+Time=2019-09-05 21:09:25.063473 Name=cuongnguyenngocnsm Message=1:many people are walking
+Time=2019-09-05 21:09:37.049949 Name=justinnguyenj Message=1:many people are walking
+Time=2019-09-05 21:09:54.827918 Name=tmi.twitch.tv 421 ch932 2 Message= :Unknown command
+Time=2019-09-05 21:10:01.403213 Name=justinnguyenj Message=#1
+Time=2019-09-05 21:10:11.627210 Name=justinnguyenj Message=#`
+Time=2019-09-05 21:10:15.038334 Name=justinnguyenj Message=#0
+Time=2019-09-05 21:31:20.044674 Name=ch932 Message=Chat room joined!
+Time=2019-09-05 21:31:20.458458 Name=ch932 Message=Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-05 21:31:30.838577 Name=justinnguyenj Message=1:a beautiful woman
+Time=2019-09-05 22:15:48.285747 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 22:15:48.331721 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 22:17:09.127832 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 22:17:09.152818 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 22:18:30.692115 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 22:18:30.717101 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 22:19:51.679957 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 22:19:51.705942 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:23:32.785918 Name=justinnguyenj Message=1:kakakka
+Time=2019-09-05 23:24:23.350364 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 23:24:29.596389 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 23:24:34.307596 Name=justinnguyenj Message=#0
+Time=2019-09-05 23:24:57.758642 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 23:24:57.797620 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:25:22.897852 Name=cuongnguyenngocnsm Message=1:raining
+Time=2019-09-05 23:25:38.820889 Name=justinnguyenj Message=1:raining
+Time=2019-09-05 23:25:55.053311 Name=justinnguyenj Message=#2
+Time=2019-09-05 23:26:03.121696 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 23:26:08.976726 Name=justinnguyenj Message=#0
+Time=2019-09-05 23:26:13.570621 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 23:26:19.383796 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:26:19.427771 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:26:44.331005 Name=justinnguyenj Message=1:people are having fun at a festival
+Time=2019-09-05 23:27:24.503630 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 23:27:27.046571 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 23:27:41.015434 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 23:27:41.068404 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:29:09.595544 Name=justinnguyenj Message=2: a countryside with farm and hill
+Time=2019-09-05 23:29:44.309779 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 23:30:00.807060 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:30:00.850036 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:30:05.663894 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 23:30:44.153206 Name=justinnguyenj Message=1:people are sailing
+Time=2019-09-05 23:31:06.106945 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 23:31:08.160246 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 23:31:42.715241 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 23:31:42.753220 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:33:03.951223 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:33:03.995198 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:34:24.841267 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:34:24.873247 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:36:05.317559 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:36:05.348541 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:37:25.852572 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:37:25.890549 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:38:48.098956 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:38:48.136933 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:40:29.619223 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:40:29.663198 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:41:50.986212 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:41:51.050175 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:43:11.740430 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:43:11.788403 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:44:32.952558 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:44:32.993535 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:45:53.814724 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:45:53.878686 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:47:14.667687 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:47:14.716659 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:48:35.351945 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:48:35.387924 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:49:57.354626 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:49:57.458568 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:50:57.874910 Name=justinnguyenj Message=1: people are carrying goods tiredly
+Time=2019-09-05 23:51:38.019218 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 23:51:48.529749 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 23:54:11.504533 Name=ch932 Message=Chat room joined!
+Time=2019-09-05 23:54:11.963871 Name=ch932 Message=Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-05 23:54:29.938735 Name=justinnguyenj Message=1: three women are talking next to a river
+Time=2019-09-05 23:54:29.941734 Name=justinnguyenj Message=1: three women are talking next to a river
+Time=2019-09-05 23:55:11.889044 Name=ch932 Message=Time of describing is up. Please vote for these descriptions following format "#description_id":
+Time=2019-09-05 23:55:18.983139 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 23:55:19.203013 Name=ch932 Message=Describing session is still on. Please wait for voting session.
+Time=2019-09-05 23:55:28.275064 Name=cuongnguyenngocnsm Message=#1
+Time=2019-09-05 23:55:28.277063 Name=cuongnguyenngocnsm Message=#1
+Time=2019-09-05 23:55:28.496937 Name=ch932 Message=Describing session is still on. Please wait for voting session.
+Time=2019-09-05 23:55:28.524922 Name=ch932 Message=There is no typed description id shown on the list. Please try again.
+Time=2019-09-05 23:55:32.250009 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-05 23:55:33.645975 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 23:55:33.648973 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 23:55:33.949802 Name=ch932 Message=Describing session is still on. Please wait for voting session.
+Time=2019-09-05 23:55:33.952800 Name=ch932 Message=Describing session is still on. Please wait for voting session.
+Time=2019-09-05 23:56:32.488148 Name=ch932 Message=Time of describing is up.
+Time=2019-09-05 23:56:48.046293 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:56:48.051290 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-05 23:56:48.090268 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:56:55.627811 Name=ch932 Message=Chat room joined!
+Time=2019-09-05 23:56:55.968616 Name=ch932 Message=Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-05 23:57:21.344510 Name=justinnguyenj Message=1:many people at a temple
+Time=2019-09-05 23:57:21.595367 Name=ch932 Message=You have updated description for image 1
+Time=2019-09-05 23:57:55.972223 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 23:57:55.975222 Name=ch932 Message=Time of describing is up. Please vote for these descriptions following format "#description_id":
+Time=2019-09-05 23:57:59.895587 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 23:57:59.909580 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 23:58:00.149443 Name=ch932 Message=Describing session is still on. Please wait for voting session.
+Time=2019-09-05 23:58:07.136176 Name=cuongnguyenngocnsm Message=#1
+Time=2019-09-05 23:58:07.137176 Name=cuongnguyenngocnsm Message=#1
+Time=2019-09-05 23:58:07.364047 Name=ch932 Message=Describing session is still on. Please wait for voting session.
+Time=2019-09-05 23:58:07.367045 Name=ch932 Message=There is no typed description id shown on the list. Please try again.
+Time=2019-09-05 23:58:11.519498 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-05 23:58:11.523496 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-05 23:58:11.576466 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:58:11.682406 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 23:58:11.683405 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-05 23:58:11.905279 Name=ch932 Message=Describing session is still on. Please wait for voting session.
+Time=2019-09-05 23:58:11.940259 Name=ch932 Message=You already voted for this description.
+Time=2019-09-05 23:58:16.513013 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-05 23:59:16.847396 Name=ch932 Message=Time of describing is up.
+Time=2019-09-05 23:59:33.365740 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:59:33.409714 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-05 23:59:33.410714 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-05 23:59:38.331198 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:00:38.478484 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:00:54.958752 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:00:54.960753 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:00:59.893325 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:02:00.084662 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:02:15.740482 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:02:15.822435 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:02:15.868408 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:02:20.537411 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:03:20.812457 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:03:37.216103 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:03:37.349027 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:03:37.391003 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:03:42.204614 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:04:42.673653 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:04:59.222815 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:04:59.300771 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:04:59.342747 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:05:04.256755 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:06:04.348272 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:06:20.778078 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:06:20.862030 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:06:20.896011 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:06:25.752420 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:07:26.066130 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:07:41.601819 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:07:41.678766 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:07:41.738732 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:07:46.535704 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:08:46.948608 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:09:03.456196 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:09:03.536150 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:09:08.473291 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:10:08.787330 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:10:24.176406 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:10:24.250364 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:10:24.293339 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:10:29.179645 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:11:29.454342 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:11:45.882714 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:11:45.954673 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:11:46.008643 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:11:50.895846 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:12:51.179339 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:13:07.841863 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:13:07.915820 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:13:12.809575 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:14:13.248870 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:14:29.555094 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:14:29.628051 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:14:29.663031 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:14:34.620352 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:15:34.705863 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:15:50.174206 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:15:50.175205 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:15:50.211185 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:15:55.110987 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:16:55.214133 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:17:10.536392 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:17:10.617346 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:17:15.606089 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:18:15.959186 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:18:32.321460 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:18:32.368433 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:18:32.395417 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:18:37.373412 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:19:37.506492 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:19:52.955373 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:19:53.036327 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:19:53.037335 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:19:58.038605 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:20:58.878048 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:21:15.397057 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:21:15.445030 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:21:15.464020 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:21:20.451586 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:22:20.812790 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:22:36.941814 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:22:36.942813 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:22:36.988786 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:22:41.973885 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:23:42.036262 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:23:57.429325 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:23:57.431324 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:24:02.439052 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:25:02.774090 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:25:20.181413 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:25:20.182413 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:25:20.232385 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:25:25.207106 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:26:25.461413 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:26:40.955373 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:26:40.994351 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:26:41.024334 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:26:46.034904 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:27:46.288323 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:28:04.001595 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:28:04.039573 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:28:04.066557 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:28:09.085311 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:29:09.641894 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:29:26.966652 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:29:27.016624 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:29:27.029616 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:29:32.070104 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:30:32.124803 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:30:49.865637 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:30:49.866636 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:30:49.906083 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:30:54.865564 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:31:55.543851 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:32:11.009766 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:32:11.056740 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:32:11.064734 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:32:16.062103 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:33:16.773395 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:33:32.306899 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:33:32.342879 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:33:32.365865 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:33:37.373210 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:34:38.163239 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:34:55.846588 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:34:55.849586 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:34:55.889562 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:35:00.860147 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:36:01.115254 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:36:16.742112 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:36:16.744111 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:36:16.792085 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:36:21.742523 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:37:22.066419 Name=ch932 Message=Time of describing is up.
+Time=2019-09-06 00:37:38.819824 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-09-06 00:37:38.869795 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:37:38.906775 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:37:43.803653 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-09-06 00:38:59.839021 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:38:59.875001 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:40:20.944408 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:40:20.988384 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:41:42.883635 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:41:42.921614 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:43:04.742093 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:43:04.787066 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:44:26.206412 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:44:26.308353 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:45:47.378726 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:45:47.433694 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:47:10.337518 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:47:10.377494 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:48:32.845639 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:48:32.877621 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:49:53.588633 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:51:15.233375 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:51:15.281348 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:52:37.248206 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:52:37.283186 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:53:58.368453 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:53:58.399434 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:55:19.512947 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:55:19.560920 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:56:41.192561 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:56:41.246154 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:58:02.878700 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:58:02.919201 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:59:24.647885 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 00:59:24.683223 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:00:45.328414 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:00:45.361396 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:02:06.474626 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:02:06.513602 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:03:28.837927 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:03:28.870908 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:04:49.547444 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:04:49.582424 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:06:12.493985 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:06:12.531964 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:07:34.065954 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:07:34.099934 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:08:55.057115 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:08:55.092097 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:10:16.563327 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:10:16.601305 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:11:37.060521 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:11:37.095501 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:12:58.797423 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:12:58.831102 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:14:19.243392 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:15:39.931034 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:17:01.633915 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:17:01.673893 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:18:22.250622 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:18:22.290600 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:19:42.884787 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:19:42.926763 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 01:21:05.751825 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:31:28.303724 Name=justinnguyenj Message=1:a beautiful scence with river and trees
+Time=2019-09-06 14:31:57.619176 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-06 14:32:04.975251 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-06 14:32:14.920419 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-06 14:32:14.960396 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:32:45.007664 Name=justinnguyenj Message=3: a very pretty and sexy woman
+Time=2019-09-06 14:32:57.222977 Name=justinnguyenj Message=1:haha
+Time=2019-09-06 14:33:05.535340 Name=cuongnguyenngocnsm Message=#2
+Time=2019-09-06 14:33:07.692205 Name=cuongnguyenngocnsm Message=#1
+Time=2019-09-06 14:33:20.004629 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-06 14:33:32.248563 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-06 14:33:35.523812 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:33:35.568786 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:34:56.176220 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:34:56.238793 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:36:17.384979 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:36:17.431952 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:37:39.749971 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:37:39.800941 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:39:00.592329 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:39:00.641301 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:40:08.385196 Name=justinnguyenj Message=2: a very beautiful cherry blossom
+Time=2019-09-06 14:40:17.050631 Name=justinnguyenj Message=#0
+Time=2019-09-06 14:40:21.418442 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:40:21.463416 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:41:42.650397 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:41:42.688377 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:43:03.636545 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:43:03.669526 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:44:25.545865 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:44:25.580846 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:45:46.411840 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:45:46.453816 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:47:08.201118 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:47:08.245095 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:48:29.185541 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:48:29.254502 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:51:57.119961 Name=justinnguyenj Message=2: many men are carrying collar for building house
+Time=2019-09-06 14:52:18.779137 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-06 14:52:24.130599 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-06 14:52:34.125883 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:52:34.164860 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-06 14:52:48.465064 Name=justinnguyenj Message=2:hahha
+Time=2019-09-06 14:53:39.635911 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-06 14:53:43.176078 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-06 14:53:56.031378 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:53:56.080351 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-06 14:54:31.645203 Name=cuongnguyenngocnsm Message=2: many people are walking over bridge
+Time=2019-09-06 14:55:01.301169 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-06 14:55:04.170539 Name=justinnguyenj Message=#0
+Time=2019-09-06 14:55:16.822267 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:56:38.474031 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:56:38.521004 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:58:02.195255 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:58:02.247225 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 14:58:50.983591 Name=justinnguyenj Message=1:men and women are learning something
+Time=2019-09-06 14:59:30.836317 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-06 14:59:35.827473 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-06 14:59:47.310891 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-06 14:59:47.350869 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:01:34.157926 Name=justinnguyenj Message=1:people are walking calmly on a peaceful village road
+Time=2019-09-06 15:01:51.564054 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-06 15:01:59.370648 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-06 15:02:07.012451 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-06 15:02:07.055427 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:03:03.947105 Name=cuongnguyenngocnsm Message=1: a general is fighting with his men
+Time=2019-09-06 15:03:12.139010 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-06 15:03:15.140713 Name=justinnguyenj Message=#0
+Time=2019-09-06 15:03:28.532928 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-06 15:03:28.574903 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:04:50.273414 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:04:50.315390 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:06:12.003107 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:06:12.090057 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:07:41.922403 Name=justinnguyenj Message=2:people are running from something
+Time=2019-09-06 15:08:02.122937 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-06 15:08:05.707903 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-06 15:08:18.581128 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:08:18.614108 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-06 15:09:00.553639 Name=cuongnguyenngocnsm Message=3: a house under snow
+Time=2019-09-06 15:09:23.916711 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-06 15:09:26.722798 Name=justinnguyenj Message=#0
+Time=2019-09-06 15:09:39.400528 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:09:39.437358 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:09:55.954733 Name=justinnguyenj Message=3: it's bullshit
+Time=2019-09-06 15:10:45.271011 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-06 15:10:52.301724 Name=cuongnguyenngocnsm Message=#0
+Time=2019-09-06 15:11:01.676000 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:11:01.746957 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:11:36.707009 Name=justinnguyenj Message=1: a total bullshit
+Time=2019-09-06 15:12:06.745951 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-09-06 15:12:23.271510 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:12:23.321481 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:13:45.211889 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:13:45.327823 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:15:06.009177 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:15:06.044157 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:16:27.016527 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:16:27.067497 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:17:47.759295 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:19:09.878546 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:19:09.910526 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:20:30.783838 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:20:30.836807 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:21:52.648858 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:21:52.687836 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:23:13.502181 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:23:13.546156 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:24:35.756243 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-09-06 15:24:35.789226 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command

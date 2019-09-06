@@ -12,8 +12,6 @@ class BotNotifier:
         self.botTwitch = botTwitch
         self.utils = Utils.Utils()
 
-        self.audiences = None
-
         self.botTwitch.giving_stop_voting_signal(text) # stop voting at the beginning
 
         
@@ -29,7 +27,7 @@ class BotNotifier:
 
     def set_top_score_text(self):
         top_score_text = "Ranking score:\n"
-        top_participants = self.botTwitch.get_top_participants()
+        top_participants = self.botTwitch.get_audiences().get_top_participants()
         if top_participants is not None:
             for participant in top_participants:
                 top_score_text = top_score_text + participant[0] + ": " + str(participant[1].get("total_score")) + "\n"
@@ -90,32 +88,41 @@ class BotNotifier:
         self.botTwitch.setGameSession() # increase game session to next round
         self.botTwitch.refresh_desid()
         
-
-        self.audiences.refresh_players()
+        self.botTwitch.get_audiences().refresh_players()
         self.artManager.refresh()
     
     def showing_winner(self):
         text = "Time is up for voting. Winners for this round are:\n"
         descriptions = self.botTwitch.get_descriptions()
         images = self.artManager.get_images()
+        
         for img_id in images:
-            des_id = self.botTwitch.get_winning_des_id_foreach_img(img_id)
+            des_id = self.botTwitch.get_audiences().get_winning_des_id_foreach_img(img_id)
             if des_id is not None:
                 description = descriptions.get(des_id)
                 text = text + "   " + des_id + ": " + description + " for image " + img_id + "\n"
             else:
                 text = text + "    No winner for image " + img_id + "\n"
         
-        self.audiences = self.botTwitch.get_updated_audiences()
-        winning_participants = self.audiences.get_participants_results(images)
+        game_session = self.botTwitch.getGameSession()
+        winning_participants = self.botTwitch.get_audiences().get_participants_results(images, game_session)
 
         for u, value in winning_participants.items():
-            game_session = self.botTwitch.getGameSession()
+            
             game_session_value = value.get(game_session)
             if game_session_value is not None:
                 score = game_session_value.get("added_score")
                 text = text + "      User " + u + " get score " + str(score)
-                self.utils.store_winning_user(u, game_session, game_session_value)
+                img = game_session_value.get("img")
+                des_ids = game_session_value.get("des_ids")
+                des_list = []
+                for did in des_ids:
+                    des_list.append(descriptions.get(did))
+                
+                des = ";".join(des_list)
+                role = game_session_value.get("role")
+                text = text + "  " + img + "  " + des + "  " + role
+                self.utils.store_winning_user(u, game_session, img, des, role)
         
         self.label.configure(text=text)
         self.botTwitch.sendMessage(text)

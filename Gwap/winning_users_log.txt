@@ -1,0 +1,8 @@
+78,cuongnguyenngocnsm,honolulu-7285.jpg, a general is fighting with his men,describer
+78,justinnguyenj,honolulu-7285.jpg, a general is fighting with his men,voter
+79,cuongnguyenngocnsm,honolulu-5369.jpg,people are running from something,voter
+79,justinnguyenj,honolulu-5369.jpg,people are running from something,describer
+80,cuongnguyenngocnsm,honolulu-7863.jpg, a house under snow,describer
+80,justinnguyenj,honolulu-7863.jpg, a house under snow,voter
+81,cuongnguyenngocnsm,arcUP1183.jpg, it's bullshit,voter
+81,justinnguyenj,arcUP1183.jpg, it's bullshit,describer

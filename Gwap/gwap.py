@@ -34,3 +34,18 @@ class Main:
 
 # Run everything here
 Main()
+
+# class Hello:
+#     def __init__(self):
+
+#         self.describers = {}
+#         self.voters = {}
+    
+#     def get_voters(self):
+#         return self.voters
+
+# hello = Hello()
+
+# hello.get_voters()["user"] = "whattt"
+
+# print(hello.get_voters())

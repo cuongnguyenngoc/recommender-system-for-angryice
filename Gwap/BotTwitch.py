@@ -21,9 +21,8 @@ class BotTwitch:
         # self.game_session = 0
 
         self.audiences = Audiences.Audiences()
-        self.describers = self.audiences.get_describers()
+
         self.des_id = 0
-        self.voters = self.audiences.get_voters()
 
         ### Code start runs
         self.s_prep = socket.socket()
@@ -34,24 +33,25 @@ class BotTwitch:
 
         self.joinchat()
         self.readbuffer = ""
-
-    def get_updated_audiences(self):
-        self.audiences.set_describers(self.describers)
-        self.audiences.set_voters(self.voters)
-
+    
+    def get_audiences(self):
         return self.audiences
+    
+    def set_audiences(self, audiences):
+        self.audiences = audiences
+    
     
     def get_descriptions(self):
         des = {}
-        for v in self.describers.values():
+        for v in self.audiences.get_describers().values():
             for i in v.values():
                 des.update(i)
         return des
 
     def get_img_id(self, des_id):
-        # self.describers: {1: {"img1": {"d1": "des1"}, "img2": {"d2": "des2"}}, 2: {"img1": {"d3": "des3"}, "img2": {"d4": "des4"}}}
-        # self.describers.values(): {"img1": {"d1": "des1"}, "img2": {"d2": "des2"}}, {"img1": {"d3": "des3"}, "img2": {"d4": "des4"}}
-        for values in self.describers.values():
+        # self.audiences.get_describers(): {1: {"img1": {"d1": "des1"}, "img2": {"d2": "des2"}}, 2: {"img1": {"d3": "des3"}, "img2": {"d4": "des4"}}}
+        # self.audiences.get_describers().values(): {"img1": {"d1": "des1"}, "img2": {"d2": "des2"}}, {"img1": {"d3": "des3"}, "img2": {"d4": "des4"}}
+        for values in self.audiences.get_describers().values():
             for k, v in values.items(): # "img1": {"d1": "des1"}, "img2": {"d2": "des2"}
                 if des_id in v: # v: {"d1": "des1"}
                     return k
@@ -59,21 +59,6 @@ class BotTwitch:
 
     def refresh_desid(self):
         self.des_id = 0
-
-    def get_winning_des_id_foreach_img(self, img_id):
-        if img_id in self.voters:
-            return sorted(self.voters.get(img_id).items(), key=lambda x: len(x[1]))[-1][0]
-        else:
-            return None
-
-    def get_winning_des_list(self, images):
-        w_des_list = []
-        for img_id in images:
-            winning_des = self.get_winning_des_id_foreach_img(img_id)
-            if winning_des is not None:
-                w_des_list.append(winning_des)
-        
-        return w_des_list
 
     def joinchat(self):
         readbuffer_join = "".encode()
@@ -263,8 +248,8 @@ class BotTwitch:
                         self.des_id += 1
                     
                     imgs = {}
-                    if user in self.describers:
-                        imgs = self.describers.get(user)
+                    if user in self.audiences.get_describers():
+                        imgs = self.audiences.get_describers().get(user)
                     
                     img_id = message.split(":")[0]
                     description = message.split(":")[1]
@@ -275,14 +260,14 @@ class BotTwitch:
                             self.sendMessage("You have updated description for image " + img_id)
                         
                         imgs[img_id] = {str(self.des_id): description}
-                        self.describers[user] = imgs
+                        self.audiences.get_describers()[user] = imgs
                         self.utils.writeVoteAndTagsData(user, message, images, self.game_session)
                     else:
                         self.sendMessage("There is no typed image id shown on the screen. Please try again following the format.")
                     break
                 elif (not self.isStopVotingSignal) and self.isStopDescribingSignal and (user != self.OWNER) and message.startswith("#"):
                     print(user + " what is going on " + message)
-                    if user not in self.describers:
+                    if user not in self.audiences.get_describers():
                         des_id = message.replace("#", "")
                         descriptions = self.get_descriptions()
                         if des_id in descriptions:
@@ -290,8 +275,8 @@ class BotTwitch:
                             img_id = self.get_img_id(des_id)
                             
                             des_list = {}
-                            if img_id in self.voters:
-                                des_list = self.voters.get(img_id)
+                            if img_id in self.audiences.get_voters():
+                                des_list = self.audiences.get_voters().get(img_id)
                             
                             users = []
                             if des_id in des_list:
@@ -305,7 +290,7 @@ class BotTwitch:
                                 
                             else: #des_id not in des_list
                                 total_users = []  # flatten to 1 array of all users voted for all descriptions
-                                for ds in self.voters.values():
+                                for ds in self.audiences.get_voters().values():
                                     total_users = total_users + [u for sublist in ds.values() for u in sublist]
                                 
                                 if user not in total_users:
@@ -316,7 +301,7 @@ class BotTwitch:
                             
                             if users: # store when users array not empty
                                 des_list[des_id] = users
-                                self.voters[img_id] = des_list
+                                self.audiences.get_voters()[img_id] = des_list
                         else:
                             self.sendMessage("There is no typed description id shown on the list. Please try again.")
                     else:
