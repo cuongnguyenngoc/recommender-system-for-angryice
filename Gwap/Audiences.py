@@ -2,13 +2,18 @@ import Utils
 
 class Audiences:
 
-    def __init__(self):
+    def __init__(self, images):
         self.utils = Utils.Utils()
         self.voters = {}
         
-        ### {u8: {img1: {d1: "description"}, img2: {d6: "description"}}, u9:...}
-        self.describers = self.utils.transform_former_voters_to_describers_if_img_shown_again()[1]
+        ## {u8: {'imgs': {img1: {d1: "description"}, img2: {d6: "description"}}, 'role':'former_voter'}, 
+        ###  u9:...}
+        new_describers_transformed_by_voters = self.utils.transform_former_voters_to_describers_if_img_shown_again(images)
+        self.describers = new_describers_transformed_by_voters[1]
+        self.init_des_id = new_describers_transformed_by_voters[0]
+
         self.participants = {} ### {img1: {d1: [u1, u2, u3], d2: [u4, u5]}, img2:...}
+        self.images = images
     
     def set_voters(self, voters):
         self.voters = voters
@@ -33,9 +38,15 @@ class Audiences:
     
 
     def refresh_players(self):
-        self.describers = self.utils.transform_former_voters_to_describers_if_img_shown_again()[1]
+        new_describers_transformed_by_voters = self.utils.transform_former_voters_to_describers_if_img_shown_again(self.images)
+        self.describers = new_describers_transformed_by_voters[1]
+        self.init_des_id = new_describers_transformed_by_voters[0]
+        
         self.voters = {}
     
+    def get_init_des_id(self):
+        return self.init_des_id
+
     def get_winning_des_id_foreach_img(self, img_id):
         if img_id in self.voters:
             return sorted(self.voters.get(img_id).items(), key=lambda x: len(x[1]))[-1][0]
@@ -70,11 +81,13 @@ class Audiences:
                             prop["total_score"] = old_score + len(u_list)
                             self.participants[u] = prop
             
-            for u, imgs in self.describers.items(): ## calculate or update scores for all describers who created winning descriptions this game session
+            for u, value in self.describers.items(): ## calculate or update scores for all describers who created winning descriptions this game session
                 d_ids = []
                 new_score = 0
                 added_score = 0
                 prop = {}
+                imgs = value.get('imgs')
+
                 for img_id, d in imgs.items():
                     d_id = next(iter(d))
                     if d_id in winning_des_list:

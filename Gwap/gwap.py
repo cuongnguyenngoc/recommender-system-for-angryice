@@ -3,8 +3,8 @@ import tkinter as tk
 import BotManager, ArtManager, Utils, BotTwitch
 import threading
 
-botTwitch = BotTwitch.BotTwitch()
 artManager = ArtManager.ArtManager()
+botTwitch = BotTwitch.BotTwitch(artManager)
 
 class Main:
     def __init__(self):

@@ -3785,3 +3785,40 @@ Time=2019-09-06 17:29:23.835641 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown
 Time=2019-09-06 17:30:45.388628 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
 Time=2019-09-06 17:30:45.418610 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
 Time=2019-09-06 17:32:06.335989 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 15:53:15.546041 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 15:53:15.877851 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 15:54:52.142286 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 15:54:52.174267 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 15:55:30.400172 Name=justinnguyenj Message=1:a tree in a darkness
+Time=2019-10-07 15:55:56.276780 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-07 15:56:09.187218 Name=cuongnguyenngocnsm Message=#1
+Time=2019-10-07 15:56:13.655192 Name=cuongnguyenngocnsm Message=#0
+Time=2019-10-07 15:56:14.108933 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 15:57:06.160686 Name=justinnguyenj Message=2: a view with sea and a road along up a mountain
+Time=2019-10-07 15:57:18.816352 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-07 15:57:32.237916 Name=cuongnguyenngocnsm Message=#1
+Time=2019-10-07 15:57:36.786984 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-07 15:57:36.814968 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 15:58:26.256890 Name=justinnguyenj Message=3: a picture with flower and kanji letters
+Time=2019-10-07 15:58:41.786121 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-07 15:58:50.505903 Name=cuongnguyenngocnsm Message=#2
+Time=2019-10-07 15:58:56.452386 Name=cuongnguyenngocnsm Message=#1
+Time=2019-10-07 15:58:59.468087 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-07 15:58:59.488075 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:01:15.895165 Name=justinnguyenj Message=1:a mother and a kid is walking along a fence with green trees everywhere
+Time=2019-10-07 16:01:26.905922 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-07 16:01:37.323930 Name=cuongnguyenngocnsm Message=#0
+Time=2019-10-07 16:01:45.667013 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-07 16:01:45.698995 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:02:25.400417 Name=justinnguyenj Message=1: many foreign people are in front of a king
+Time=2019-10-07 16:02:50.713165 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-07 16:02:58.296185 Name=cuongnguyenngocnsm Message=#0
+Time=2019-10-07 16:03:08.330149 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-07 16:03:08.358132 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:03:51.083277 Name=cuongnguyenngocnsm Message=3: kids are digusing as devils having fun at a festival
+Time=2019-10-07 16:04:13.667833 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-07 16:04:24.617520 Name=justinnguyenj Message=#0
+Time=2019-10-07 16:04:30.427954 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:04:30.467930 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:05:52.432887 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:05:52.457873 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command

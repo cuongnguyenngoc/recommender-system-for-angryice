@@ -6,3 +6,13 @@
 80,justinnguyenj,honolulu-7863.jpg, a house under snow,voter
 81,cuongnguyenngocnsm,arcUP1183.jpg, it's bullshit,voter
 81,justinnguyenj,arcUP1183.jpg, it's bullshit,describer
+86,cuongnguyenngocnsm,arcUP2586.jpg,a tree in a darkness,voter
+86,justinnguyenj,honolulu-4552.jpg,a tree in a darkness,describer
+87,cuongnguyenngocnsm,arcUP2586.jpg,a tree in a darkness,voter
+87,justinnguyenj,NDL-651-00-001.jpg,a tree in a darkness,describer
+88,cuongnguyenngocnsm,honolulu-3315.jpg,a mother and a kid is walking along a fence with green trees everywhere,voter
+88,justinnguyenj,honolulu-3315.jpg,a mother and a kid is walking along a fence with green trees everywhere,describer
+89,cuongnguyenngocnsm,honolulu-2896.jpg, many foreign people are in front of a king,voter
+89,justinnguyenj,honolulu-2896.jpg, many foreign people are in front of a king,describer
+90,cuongnguyenngocnsm,honolulu-5177.jpg, kids are digusing as devils having fun at a festival,describer
+90,justinnguyenj,honolulu-5177.jpg, kids are digusing as devils having fun at a festival,voter

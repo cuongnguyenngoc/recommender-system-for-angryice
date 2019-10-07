@@ -4,7 +4,7 @@ import Utils, Audiences
 
 class BotTwitch:
 
-    def __init__(self):
+    def __init__(self, artManager):
         ### Options (Don't edit)
         self.SERVER = "irc.twitch.tv"  # server
         self.PORT = 6667 # port
@@ -20,9 +20,9 @@ class BotTwitch:
         self.game_session = self.utils.get_last_game_session() + 1
         # self.game_session = 0
 
-        self.audiences = Audiences.Audiences()
+        self.audiences = Audiences.Audiences(artManager.get_images())
 
-        self.des_id = 0
+        self.des_id = self.audiences.get_init_des_id()
 
         ### Code start runs
         self.s_prep = socket.socket()
@@ -44,21 +44,21 @@ class BotTwitch:
     def get_descriptions(self):
         des = {}
         for v in self.audiences.get_describers().values():
-            for i in v.values():
+            for i in v.get('imgs').values():
                 des.update(i)
         return des
 
     def get_img_id(self, des_id):
-        # self.audiences.get_describers(): {1: {"img1": {"d1": "des1"}, "img2": {"d2": "des2"}}, 2: {"img1": {"d3": "des3"}, "img2": {"d4": "des4"}}}
-        # self.audiences.get_describers().values(): {"img1": {"d1": "des1"}, "img2": {"d2": "des2"}}, {"img1": {"d3": "des3"}, "img2": {"d4": "des4"}}
-        for values in self.audiences.get_describers().values():
-            for k, v in values.items(): # "img1": {"d1": "des1"}, "img2": {"d2": "des2"}
+        # describers: {1: {'imgs': {img1: {d1: "des1"}, img2: {d6: "des2"}}, 'other_role':'former_voter'}, 2: {"": {"img1": {"d3": "des3"}, "img2": {"d4": "des4"}}, 'other_role': 'none'}
+        # describers.values(): {'imgs': {"img1": {"d1": "des1"}, "img2": {"d2": "des2"}}, 'other_role': 'former_voter',...}
+        for value in self.audiences.get_describers().values():
+            for k, v in value.get('imgs').items(): # "img1": {"d1": "des1"}, "img2": {"d2": "des2"}
                 if des_id in v: # v: {"d1": "des1"}
                     return k
         return None
 
     def refresh_desid(self):
-        self.des_id = 0
+        self.des_id = self.audiences.get_init_des_id()
 
     def joinchat(self):
         readbuffer_join = "".encode()
@@ -248,8 +248,10 @@ class BotTwitch:
                         self.des_id += 1
                     
                     imgs = {}
+                    other_role = None
                     if user in self.audiences.get_describers():
-                        imgs = self.audiences.get_describers().get(user)
+                        imgs = self.audiences.get_describers().get(user).get('imgs')
+                        other_role = self.audiences.get_describers().get(user).get('other_role')
                     
                     img_id = message.split(":")[0]
                     description = message.split(":")[1]
@@ -260,7 +262,9 @@ class BotTwitch:
                             self.sendMessage("You have updated description for image " + img_id)
                         
                         imgs[img_id] = {str(self.des_id): description}
-                        self.audiences.get_describers()[user] = imgs
+                        
+                        self.audiences.get_describers()[user] = {'imgs': imgs, 'other_role': other_role}
+
                         self.utils.writeVoteAndTagsData(user, message, images, self.game_session)
                     else:
                         self.sendMessage("There is no typed image id shown on the screen. Please try again following the format.")
