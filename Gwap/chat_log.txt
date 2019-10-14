@@ -3822,3 +3822,1719 @@ Time=2019-10-07 16:04:30.427954 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown
 Time=2019-10-07 16:04:30.467930 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
 Time=2019-10-07 16:05:52.432887 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
 Time=2019-10-07 16:05:52.457873 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:07:15.231985 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:07:15.259969 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:08:36.227321 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:08:36.256304 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:09:59.198781 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:09:59.219769 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:10:49.435434 Name=justinnguyenj Message=1: 3 women are talking next to a river
+Time=2019-10-07 16:11:04.524188 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-07 16:11:13.886415 Name=justinnguyenj Message=3:farmers are having chat under big trees
+Time=2019-10-07 16:11:22.218004 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:11:22.269975 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:11:50.352255 Name=justinnguyenj Message=1: many people gathering around for a festival
+Time=2019-10-07 16:12:04.026938 Name=justinnguyenj Message=2: bamboo trees next to a river
+Time=2019-10-07 16:12:27.624865 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-07 16:12:33.578014 Name=cuongnguyenngocnsm Message=#1
+Time=2019-10-07 16:12:38.180839 Name=cuongnguyenngocnsm Message=#0
+Time=2019-10-07 16:12:43.218711 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:12:43.250694 Name=tmi.twitch.tv 421 ch932 1 Message= :Unknown command
+Time=2019-10-07 16:13:07.385261 Name=justinnguyenj Message=1: something
+Time=2019-10-07 16:13:10.158492 Name=justinnguyenj Message=2: someone
+Time=2019-10-07 16:13:49.121643 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-07 16:13:52.908156 Name=cuongnguyenngocnsm Message=#0
+Time=2019-10-07 16:14:05.538028 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-07 16:14:05.570993 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:15:27.511144 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:15:27.538128 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:16:51.369046 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:16:51.400029 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:18:14.498835 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:18:14.531817 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:19:36.541153 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:19:36.571136 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:20:57.858078 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:20:57.889061 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:22:19.845083 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:22:19.871067 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:23:43.077941 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:23:43.106924 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:25:04.844847 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:25:04.865833 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:26:27.128605 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:26:27.154589 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:27:49.569768 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:27:49.590757 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:29:11.532321 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:29:11.552309 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:30:34.933971 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:30:34.953959 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:31:55.455803 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:31:55.477790 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:33:16.335863 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:33:16.362846 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:34:37.233180 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:34:37.256167 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:35:59.356087 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:35:59.374076 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:37:20.299780 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:37:20.320767 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:38:43.126031 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:38:43.147016 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:40:04.701052 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:40:04.722041 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:41:27.050765 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:41:27.070754 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:42:48.605878 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:42:48.626867 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:44:10.318908 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:44:10.338896 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:45:33.071928 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:45:33.092917 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:46:55.740866 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:46:55.766852 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:48:18.406678 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:48:18.428666 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:49:38.952808 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:49:38.972797 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:51:01.016527 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:51:01.037515 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:52:23.723063 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:52:23.744052 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:53:45.671065 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:53:45.692053 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:55:08.707805 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:55:08.730791 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:56:31.548968 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:56:31.571956 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:57:54.170680 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:57:54.190669 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:59:14.904233 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 16:59:14.926215 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:00:35.666904 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:00:35.688891 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:01:57.657898 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:01:57.680884 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:03:18.591046 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:03:18.612034 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:04:41.360175 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:04:41.382163 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:06:02.079938 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:06:02.100926 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:07:23.248996 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:07:23.270984 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:08:44.330098 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:08:44.355084 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:10:06.252687 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:11:27.992832 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:11:28.012820 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:12:51.692717 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:12:51.712704 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:14:14.164108 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:14:14.187095 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:15:36.758708 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:15:36.779697 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:16:59.537107 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:16:59.558095 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:18:22.450729 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:18:22.473717 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:19:44.165924 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:19:44.186913 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:21:06.193837 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:21:06.213826 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:22:26.886860 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:22:26.906849 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:23:48.171059 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:23:48.193048 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:25:10.472643 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:25:10.492632 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:26:32.475589 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:26:32.496578 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:27:55.133740 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:27:55.156726 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:29:17.847732 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:29:17.868720 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:30:39.321969 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:32:02.268695 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:32:02.289683 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:33:22.968929 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:33:22.989917 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:34:45.144948 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:34:45.170931 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:36:06.986710 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:36:07.007698 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:37:29.106897 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:37:29.126886 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:38:51.431826 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:38:51.453813 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:40:13.280159 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:40:13.300148 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:41:36.078779 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:41:36.099766 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:42:58.985011 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:42:59.005000 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:44:20.808033 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:44:20.829021 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:45:41.557140 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:45:41.578128 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:47:03.662976 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:47:03.683964 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:48:26.236590 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:48:26.257577 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:49:48.088969 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:49:48.113956 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:51:09.971566 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:51:09.992554 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:52:32.360897 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:52:32.381885 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:53:55.182887 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:53:55.202875 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:55:15.754801 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:55:15.776788 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:56:38.568665 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:56:38.589653 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:58:00.478827 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:58:00.497816 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:59:23.202559 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 17:59:23.223547 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:00:43.717546 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:00:43.744684 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:02:06.763997 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:02:06.783985 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:03:29.883753 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:03:29.905741 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:04:53.440648 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:04:53.462635 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:06:16.046620 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:06:16.068607 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:07:39.059032 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:07:39.080020 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:09:02.110619 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:09:02.133607 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:10:25.222983 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:10:25.247970 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:11:47.831585 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:11:47.856571 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:13:11.905796 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:13:11.925786 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:14:35.354752 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:14:35.373742 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:15:58.974516 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:15:58.997504 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:17:20.437762 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:17:20.456751 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:18:43.369943 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:18:43.390931 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:20:05.385724 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:20:05.406711 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:21:27.247565 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:21:27.269553 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:22:49.095800 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:22:49.118785 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:24:11.235056 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:24:11.258042 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:25:34.119783 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:25:34.139771 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:26:54.866898 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:26:54.888885 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:28:17.693659 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:28:17.716646 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:29:39.380491 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:29:39.403479 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:31:01.271924 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:31:01.292912 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:32:22.181939 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:32:22.202927 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:33:43.909774 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:33:43.930762 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:35:06.532590 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:35:06.553579 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:36:28.277865 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:36:28.299852 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:37:50.083800 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:37:50.105785 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:39:13.032446 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:39:13.055434 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:40:35.889523 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:40:35.909512 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:41:58.448960 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:41:58.471949 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:43:20.017691 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:43:20.040677 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:44:42.800528 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:44:42.821515 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:46:04.385505 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:46:04.405494 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:47:26.287475 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:47:26.308463 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:48:47.004534 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:48:47.027521 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:50:09.813571 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:50:09.832560 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:51:31.384560 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:51:31.407546 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:52:52.148652 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:52:52.176636 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:54:14.837392 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:54:14.857381 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:55:37.501459 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:55:37.522446 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:57:00.115216 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:57:00.137203 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:58:22.493553 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:58:22.514540 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:59:43.261592 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 18:59:43.284578 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:01:04.222879 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:01:04.244867 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:02:25.501714 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:02:25.544690 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:03:49.184603 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:03:49.205591 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:05:10.787575 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:05:10.809562 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:06:31.811420 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:06:31.833407 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:07:53.694465 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:07:53.717452 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:09:17.902682 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:09:17.923674 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:10:40.337444 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:10:40.362431 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:12:01.085234 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:12:01.110220 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:13:22.202461 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:13:22.223449 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:14:45.147616 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:14:45.167605 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:16:08.735701 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:16:08.759687 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:17:30.180538 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:17:30.201525 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:18:51.961153 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:18:51.984139 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:20:12.910558 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:20:12.931546 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:21:35.701842 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:21:35.724828 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:22:59.101763 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:22:59.122751 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:24:20.684889 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:24:20.706876 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:25:41.164576 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:25:41.185563 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:27:03.961611 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:27:03.985597 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:28:24.409903 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:28:24.429891 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:29:46.327660 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:29:46.347648 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:31:07.899475 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:31:07.920460 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:32:29.367472 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:32:29.386461 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:33:51.950398 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:33:51.970385 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:35:13.672919 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:35:13.695907 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:36:35.322674 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:36:35.343663 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:37:55.915966 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:37:55.937952 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:39:18.030286 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:39:18.056272 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:40:39.689625 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:40:39.713611 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:42:01.472655 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:42:01.492646 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:43:24.021707 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:43:24.041696 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:44:44.689444 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:44:44.711431 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:46:08.128908 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:46:08.151894 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:47:28.720713 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:47:28.744700 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:48:51.419575 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:48:51.440563 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:50:14.072324 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:50:14.093312 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:51:35.027579 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:51:35.047568 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:52:55.939705 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:52:55.967689 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:54:17.044917 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:54:17.069901 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:55:39.551504 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:55:39.571493 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:57:00.172401 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:57:00.194389 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:58:22.910244 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:58:22.929232 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:59:44.502967 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 19:59:44.523956 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:01:08.036317 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:01:08.062303 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:02:30.848426 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:02:30.870413 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:03:52.563483 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:03:52.586469 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:05:15.589284 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:05:15.610271 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:06:37.184630 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:06:37.204620 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:07:59.047780 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:07:59.068768 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:09:22.685598 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:09:22.708586 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:10:44.100335 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:10:44.123323 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:12:05.601852 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:12:05.622839 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:13:27.469237 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:13:27.489974 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:14:49.140483 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:14:49.171466 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:16:12.088775 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:16:12.110762 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:17:33.824396 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:17:33.847383 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:18:54.440737 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:18:54.462724 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:20:19.211386 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:20:19.233374 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:21:41.077546 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:21:41.100532 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:23:04.659405 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:23:04.682391 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:24:25.123342 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:24:25.146329 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:25:47.544736 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:25:47.569724 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:27:09.309359 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:27:09.330345 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:28:30.153595 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:28:30.175583 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:29:51.050589 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:29:51.072577 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:31:12.476466 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:31:12.501451 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:32:34.255486 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:32:34.279472 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:33:54.755566 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:33:54.779552 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:35:16.817389 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:35:16.836378 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:36:37.482706 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:36:37.504692 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:37:59.432878 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:37:59.452868 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:39:20.382185 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:39:20.403888 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:40:44.419415 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:40:44.439404 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:42:06.802413 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:42:06.830398 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:43:29.126347 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:43:29.150334 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:44:51.669567 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:44:51.690555 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:46:13.341426 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:46:13.363413 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:47:36.146468 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:47:36.170454 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:48:56.557687 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:48:56.580675 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:50:18.402508 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:50:18.423509 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:51:40.917604 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:51:40.940591 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:53:02.560297 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:53:02.577288 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:54:26.111570 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:54:26.135556 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:55:46.836522 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:55:46.863505 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:57:09.653449 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:57:09.674438 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:58:32.195381 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:58:32.217369 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:59:52.981289 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 20:59:53.001277 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:01:14.986346 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:01:15.007334 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:02:35.794422 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:02:35.815410 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:03:56.764263 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:03:56.787249 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:05:18.971135 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:05:18.995122 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:06:40.779579 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:06:40.802566 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:08:02.469511 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:08:02.488499 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:09:25.438206 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:09:25.461193 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:10:46.011523 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:10:46.035510 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:12:08.212484 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:12:08.234471 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:13:31.168633 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:13:31.188622 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:14:52.964142 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:14:52.985132 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:16:13.445553 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:16:13.466541 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:17:36.364332 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:17:36.385319 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:18:59.202241 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:18:59.220229 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:20:20.732144 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:20:20.755130 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:21:42.595130 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:21:42.616118 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:23:04.285336 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-07 21:23:04.305322 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 14:47:34.646108 Name=ch932 Message=Chat room joined!
+Time=2019-10-10 14:47:35.283252 Name=ch932 Message=Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 14:48:35.301139 Name=ch932 Message=Time of describing is up.
+Time=2019-10-10 14:48:42.523109 Name=justinnguyenj Message=3: two nice chiken
+Time=2019-10-10 14:48:42.539100 Name=justinnguyenj Message=3: two nice chiken
+Time=2019-10-10 14:48:42.701008 Name=ch932 Message=You cannot describe picture in voting session.
+Time=2019-10-10 14:48:50.909697 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 14:48:50.910696 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 14:48:50.911696 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 14:48:52.366996 Name=ch932 Message=Draw
+Time=2019-10-10 14:48:55.918139 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 14:49:15.257209 Name=justinnguyenj Message=3: people are having a beautiful festival
+Time=2019-10-10 14:49:15.258208 Name=justinnguyenj Message=3: people are having a beautiful festival
+Time=2019-10-10 14:49:15.451099 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:21:01.700161 Name=ch932 Message=Chat room joined!
+Time=2019-10-10 15:21:01.701161 Name=ch932 Message=Chat room joined!
+Time=2019-10-10 15:21:02.320335 Name=ch932 Message=Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 15:21:02.320335 Name=ch932 Message=Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 15:21:20.087730 Name=justinnguyenj Message=3: people are having fun
+Time=2019-10-10 15:21:20.092728 Name=justinnguyenj Message=3: people are having fun
+Time=2019-10-10 15:21:20.092728 Name=justinnguyenj Message=3: people are having fun
+Time=2019-10-10 15:21:20.257634 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:21:20.262631 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:21:20.263631 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:21:20.267628 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:22:02.333972 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-10 15:22:02.340969 Name=ch932 Message=Time of describing is up. Please vote for these descriptions following format "#description_id":
+Time=2019-10-10 15:22:02.340969 Name=ch932 Message=Time of describing is up. Please vote for these descriptions following format "#description_id":
+Time=2019-10-10 15:22:18.740658 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:22:18.744657 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:22:18.747655 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 15:22:18.848598 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 15:22:23.743446 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 15:22:46.820009 Name=justinnguyenj Message=3: 3 women are having chat talk under a tree
+Time=2019-10-10 15:22:46.826008 Name=justinnguyenj Message=3: 3 women are having chat talk under a tree
+Time=2019-10-10 15:22:46.827005 Name=justinnguyenj Message=3: 3 women are having chat talk under a tree
+Time=2019-10-10 15:22:46.986914 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:22:46.992912 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:22:46.993910 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:22:46.999908 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:23:23.994868 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-10 15:23:24.000866 Name=ch932 Message=Time of describing is up. Please vote for these descriptions following format "#description_id":
+Time=2019-10-10 15:23:39.623030 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:23:39.625028 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:23:39.629026 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 15:23:44.632803 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 15:24:45.170824 Name=ch932 Message=Time of describing is up.
+Time=2019-10-10 15:24:45.170824 Name=ch932 Message=Time of describing is up.
+Time=2019-10-10 15:24:48.743925 Name=justinnguyenj Message=3:hahah
+Time=2019-10-10 15:24:48.748922 Name=justinnguyenj Message=3:hahah
+Time=2019-10-10 15:24:48.748922 Name=justinnguyenj Message=3:hahah
+Time=2019-10-10 15:24:48.925822 Name=ch932 Message=You cannot describe picture in voting session.
+Time=2019-10-10 15:24:48.927821 Name=ch932 Message=You cannot describe picture in voting session.
+Time=2019-10-10 15:24:48.935816 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:24:48.939814 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:24:48.941813 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:24:48.945811 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:25:00.512824 Name=justinnguyenj Message=3:haha
+Time=2019-10-10 15:25:00.519820 Name=justinnguyenj Message=3:haha
+Time=2019-10-10 15:25:00.695720 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:25:00.701716 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:25:00.707714 Name=ch932 Message=You cannot describe picture in voting session.
+Time=2019-10-10 15:25:00.717707 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:25:00.723703 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:25:01.676815 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:25:01.678813 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:25:01.682810 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 15:25:06.666368 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 15:25:10.549136 Name=justinnguyenj Message=3:kaka
+Time=2019-10-10 15:25:10.555132 Name=justinnguyenj Message=3:kaka
+Time=2019-10-10 15:25:10.555132 Name=justinnguyenj Message=3:kaka
+Time=2019-10-10 15:25:10.725037 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:25:10.731032 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:25:10.733033 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:25:10.739028 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:25:16.323165 Name=justinnguyenj Message=2:haha
+Time=2019-10-10 15:25:16.328162 Name=justinnguyenj Message=2:haha
+Time=2019-10-10 15:25:16.329161 Name=justinnguyenj Message=2:haha
+Time=2019-10-10 15:25:20.017231 Name=justinnguyenj Message=3:keke
+Time=2019-10-10 15:25:20.023227 Name=justinnguyenj Message=3:keke
+Time=2019-10-10 15:25:20.023227 Name=justinnguyenj Message=3:keke
+Time=2019-10-10 15:25:20.197128 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:25:20.204124 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:25:20.216117 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:25:20.477967 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:25:20.483964 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:26:07.143416 Name=tmi.twitch.tv 421 ch932 2 Message= :Unknown command
+Time=2019-10-10 15:26:07.150412 Name=ch932 Message=Time of describing is up. Please vote for these descriptions following format "#description_id":
+Time=2019-10-10 15:26:22.805084 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:26:22.807084 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:26:22.810082 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 15:26:27.817352 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 15:27:28.427924 Name=ch932 Message=Time of describing is up.
+Time=2019-10-10 15:27:28.429923 Name=ch932 Message=Time of describing is up.
+Time=2019-10-10 15:27:45.183347 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:27:45.185347 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:27:45.187346 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 15:27:45.189344 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 15:27:50.195520 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 15:27:50.196519 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 15:28:50.530097 Name=ch932 Message=Time of describing is up.
+Time=2019-10-10 15:28:50.532095 Name=ch932 Message=Time of describing is up.
+Time=2019-10-10 15:29:07.008457 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:29:07.010455 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:29:07.013453 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 15:29:07.015453 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 15:29:12.038393 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 15:29:12.039393 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 15:30:12.735326 Name=ch932 Message=Time of describing is up.
+Time=2019-10-10 15:30:12.735326 Name=ch932 Message=Time of describing is up.
+Time=2019-10-10 15:30:29.755493 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:30:29.757492 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:30:29.761489 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 15:30:29.762490 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 15:30:34.704403 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 15:30:34.706404 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 15:31:31.117907 Name=justinnguyenj Message=3:beautiful place
+Time=2019-10-10 15:31:31.122904 Name=justinnguyenj Message=3:beautiful place
+Time=2019-10-10 15:31:31.313796 Name=ch932 Message=You have updated description for image 3
+Time=2019-10-10 15:31:34.799015 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-10 15:31:34.810010 Name=ch932 Message=Time of describing is up. Please vote for these descriptions following format "#description_id":
+Time=2019-10-10 15:31:51.381135 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:31:51.383134 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:31:51.387132 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 15:31:56.383281 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 15:32:56.876695 Name=ch932 Message=Time of describing is up.
+Time=2019-10-10 15:33:12.876714 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:33:12.878713 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:33:12.880711 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 15:33:17.883895 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 15:34:18.259050 Name=ch932 Message=Time of describing is up.
+Time=2019-10-10 15:34:33.632965 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:34:33.635965 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:34:33.637963 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 15:34:38.606229 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 15:35:39.081008 Name=ch932 Message=Time of describing is up.
+Time=2019-10-10 15:35:55.578339 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:35:55.580339 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:35:55.585336 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 15:36:00.593205 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 15:37:01.095543 Name=ch932 Message=Time of describing is up.
+Time=2019-10-10 15:37:18.545158 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:37:18.547157 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:37:18.550156 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 15:37:23.540504 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 15:38:23.786358 Name=ch932 Message=Time of describing is up.
+Time=2019-10-10 15:38:40.349467 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:38:40.351467 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:38:40.355465 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 15:38:45.389761 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 15:39:45.897667 Name=ch932 Message=Time of describing is up.
+Time=2019-10-10 15:40:01.344605 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:40:01.346603 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:40:01.350601 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 15:40:06.361502 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 15:41:07.189594 Name=ch932 Message=Time of describing is up.
+Time=2019-10-10 15:41:23.831914 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:41:23.833913 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:41:23.836910 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 15:41:28.820505 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 15:42:29.590077 Name=ch932 Message=Time of describing is up.
+Time=2019-10-10 15:42:45.112005 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:42:45.114004 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:42:45.117002 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 15:42:50.120036 Name=ch932 Message=Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"
+Time=2019-10-10 15:43:51.020212 Name=ch932 Message=Time of describing is up.
+Time=2019-10-10 15:44:07.343857 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:44:07.345856 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:44:07.349853 Name=ch932 Message=Time is up for voting. Winners for this round are:
+Time=2019-10-10 15:45:36.427371 Name=justinnguyenj Message=2: all snow
+Time=2019-10-10 15:45:56.701243 Name=cuongnguyenngocnsm Message=#2
+Time=2019-10-10 15:45:59.765525 Name=cuongnguyenngocnsm Message=#1
+Time=2019-10-10 15:46:16.079416 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-10 15:46:22.856260 Name=justinnguyenj Message=#2
+Time=2019-10-10 15:46:32.615730 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:46:32.618728 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:46:34.804678 Name=cuongnguyenngocnsm Message=#0
+Time=2019-10-10 15:46:54.312249 Name=justinnguyenj Message=2:hello
+Time=2019-10-10 15:47:03.100071 Name=justinnguyenj Message=1:haha
+Time=2019-10-10 15:47:06.623252 Name=justinnguyenj Message=2:keke
+Time=2019-10-10 15:47:11.478255 Name=justinnguyenj Message=2:lol
+Time=2019-10-10 15:47:20.288693 Name=justinnguyenj Message=3:a nice view
+Time=2019-10-10 15:47:38.153675 Name=tmi.twitch.tv 421 ch932 3 Message= :Unknown command
+Time=2019-10-10 15:47:47.871278 Name=cuongnguyenngocnsm Message=#3
+Time=2019-10-10 15:47:54.597899 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:47:54.598898 Name=tmi.twitch.tv 421 ch932 3 Message= :Unknown command
+Time=2019-10-10 15:48:18.629437 Name=justinnguyenj Message=3:hello
+Time=2019-10-10 15:48:51.212559 Name=justinnguyenj Message=2:eheh
+Time=2019-10-10 15:49:00.229359 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-10 15:49:08.128800 Name=cuongnguyenngocnsm Message=#0
+Time=2019-10-10 15:49:12.611453 Name=cuongnguyenngocnsm Message=#1
+Time=2019-10-10 15:49:16.312823 Name=cuongnguyenngocnsm Message=#2
+Time=2019-10-10 15:49:17.761602 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:49:17.768598 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:50:40.471718 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:50:40.474718 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:52:01.154033 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:52:01.159031 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:53:24.476949 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:53:24.479947 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:54:47.034298 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:54:47.038294 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:56:09.403212 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:56:09.407211 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:58:34.832941 Name=justinnguyenj Message=1:hahah
+Time=2019-10-10 15:58:37.623515 Name=justinnguyenj Message=2:kekke
+Time=2019-10-10 15:58:39.872769 Name=justinnguyenj Message=3:jjaja
+Time=2019-10-10 15:58:41.975660 Name=justinnguyenj Message=2:ahha
+Time=2019-10-10 15:59:25.261935 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-10 15:59:27.523738 Name=cuongnguyenngocnsm Message=#2
+Time=2019-10-10 15:59:42.515745 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 15:59:42.517746 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:00:01.744630 Name=justinnguyenj Message=1:kaka
+Time=2019-10-10 16:00:05.816871 Name=justinnguyenj Message=2:keke
+Time=2019-10-10 16:00:47.588010 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-10 16:00:50.770715 Name=cuongnguyenngocnsm Message=#0
+Time=2019-10-10 16:00:59.343970 Name=cuongnguyenngocnsm Message=#1
+Time=2019-10-10 16:01:01.615764 Name=cuongnguyenngocnsm Message=#0
+Time=2019-10-10 16:01:03.235854 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-10 16:01:03.237852 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:02:25.348036 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:02:25.350036 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:03:47.202571 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:03:47.205570 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:05:09.300389 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:05:09.302389 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:06:31.032742 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:06:31.034741 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:07:52.919260 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:07:52.921258 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:09:14.716889 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:09:14.718889 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:10:35.578942 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:10:35.588937 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:11:59.274181 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:11:59.277177 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:13:20.837094 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:13:20.840092 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:14:42.777323 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:14:42.780322 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:16:05.543781 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:16:05.547779 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:17:28.133935 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:17:28.135934 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:18:48.937172 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:18:48.939171 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:20:12.908133 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:20:12.912131 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:21:34.447210 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:21:34.450209 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:22:56.962605 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:22:56.967602 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:24:19.005556 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:24:19.007557 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:25:40.914758 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:25:40.917756 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:27:02.709948 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:27:02.713947 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:28:24.699030 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:28:24.702028 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:29:47.837098 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:29:47.839097 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:31:09.600396 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:31:09.601397 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:32:31.584291 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:32:31.589288 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:33:55.387855 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:33:55.389854 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:35:16.727017 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:35:16.731016 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:36:39.573837 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:36:39.576836 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:38:00.448154 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:38:00.450152 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:39:23.120063 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:39:23.122062 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:40:45.607651 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:40:45.609649 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:42:07.381605 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:42:07.383605 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:43:30.178077 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:43:30.181075 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:44:52.019163 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:44:52.022161 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:46:14.541853 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:46:14.543853 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:47:35.108427 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:48:57.061581 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:48:57.069577 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:50:18.996475 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:50:18.998472 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:51:40.789732 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:51:40.791731 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:53:04.617593 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:53:04.619593 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:54:26.222715 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:54:26.225713 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:55:47.021274 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:55:47.024273 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:57:08.620665 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:57:08.623663 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:58:30.267340 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:58:30.269340 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:59:52.872430 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 16:59:52.874430 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:01:17.404913 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:01:17.406911 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:02:38.856810 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:02:38.858808 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:03:59.607382 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:03:59.609333 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:05:21.842393 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:05:21.844392 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:06:43.162591 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:06:43.167587 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:08:11.672797 Name=justinnguyenj Message=2:haha
+Time=2019-10-10 17:09:03.672631 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-10 17:09:09.526637 Name=cuongnguyenngocnsm Message=#0
+Time=2019-10-10 17:09:20.539452 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:09:20.542449 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-10 17:09:36.083478 Name=justinnguyenj Message=1:gdgdf
+Time=2019-10-10 17:09:40.797600 Name=justinnguyenj Message=2:gege
+Time=2019-10-10 17:09:45.402310 Name=justinnguyenj Message=3:hfg
+Time=2019-10-10 17:10:26.054824 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-10 17:10:31.225531 Name=cuongnguyenngocnsm Message=#0
+Time=2019-10-10 17:10:35.804863 Name=cuongnguyenngocnsm Message=#1
+Time=2019-10-10 17:10:39.325419 Name=cuongnguyenngocnsm Message=#2
+Time=2019-10-10 17:10:42.553525 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-10 17:10:42.557523 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:11:07.453692 Name=justinnguyenj Message=2:hahah
+Time=2019-10-10 17:11:48.071011 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-10 17:11:50.323681 Name=cuongnguyenngocnsm Message=#0
+Time=2019-10-10 17:12:05.345994 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:12:05.353990 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-10 17:12:19.201742 Name=justinnguyenj Message=1:haha
+Time=2019-10-10 17:12:21.172798 Name=justinnguyenj Message=2:kekek
+Time=2019-10-10 17:13:10.460175 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-10 17:13:11.757429 Name=cuongnguyenngocnsm Message=#1
+Time=2019-10-10 17:13:27.041053 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:13:27.043052 Name=tmi.twitch.tv 421 ch932 1 Message= :Unknown command
+Time=2019-10-10 17:13:42.978592 Name=justinnguyenj Message=1:hahah
+Time=2019-10-10 17:13:45.573113 Name=justinnguyenj Message=2:kekeke
+Time=2019-10-10 17:13:48.003727 Name=justinnguyenj Message=3:hahah
+Time=2019-10-10 17:14:32.615865 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-10 17:14:41.243170 Name=cuongnguyenngocnsm Message=#0
+Time=2019-10-10 17:14:43.135261 Name=cuongnguyenngocnsm Message=#1
+Time=2019-10-10 17:14:49.919435 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-10 17:14:49.921435 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:16:12.261555 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:16:12.263553 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:17:35.026692 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:17:35.028692 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:17:58.761521 Name=justinnguyenj Message=1:haha
+Time=2019-10-10 17:18:02.569039 Name=justinnguyenj Message=2: sexy girl
+Time=2019-10-10 17:18:07.724550 Name=justinnguyenj Message=3:KAKA
+Time=2019-10-10 17:18:40.077641 Name=tmi.twitch.tv 421 ch932 0 Message= :Unknown command
+Time=2019-10-10 17:18:41.856446 Name=cuongnguyenngocnsm Message=#1
+Time=2019-10-10 17:18:57.575928 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:18:57.578925 Name=tmi.twitch.tv 421 ch932 1 Message= :Unknown command
+Time=2019-10-10 17:20:19.277947 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:20:19.279946 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:21:41.890424 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:21:41.894422 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:23:02.634126 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:23:02.636126 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:24:24.498150 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:25:44.969432 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:25:44.971431 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:27:07.687645 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:27:07.690643 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:28:29.203566 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:28:29.205565 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:29:50.114906 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:29:50.117904 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:31:11.058038 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:31:11.060036 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:32:34.421961 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:32:34.423961 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:33:56.193183 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:33:56.195184 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:35:17.956616 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:35:17.959615 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:36:39.839843 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:36:39.842842 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:38:00.711697 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:38:00.715696 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:39:22.772585 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:39:22.776583 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:40:45.882105 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:40:45.884102 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:42:07.593144 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:42:07.597142 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:43:30.155146 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:43:30.159144 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:44:53.409707 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:44:53.412706 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:46:15.026637 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:47:36.136818 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:47:36.140815 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:48:57.276221 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:48:57.279220 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:50:20.377329 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:50:20.379329 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:51:42.927662 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:51:42.929661 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:53:03.436803 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:53:03.438805 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:54:26.326039 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:54:26.328039 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:55:48.058230 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:55:48.060229 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:57:09.911561 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:57:09.914561 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:58:30.491507 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:58:30.493506 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:59:52.110924 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 17:59:52.112923 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:01:13.747786 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:01:13.749785 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:02:35.736117 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:02:35.739116 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:03:58.068271 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:03:58.071269 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:05:20.859690 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:05:20.862688 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:06:43.556722 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:06:43.559722 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:08:05.819043 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:08:05.827039 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:09:26.176305 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:09:26.178304 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:10:49.043415 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:10:49.046414 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:12:11.761998 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:12:11.763997 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:13:32.512595 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:13:32.514594 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:14:54.961875 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:16:15.567449 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:16:15.570448 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:17:37.425808 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:17:37.428806 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:18:59.137800 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:18:59.139799 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:20:22.789589 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:20:22.792587 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:21:44.388987 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:21:44.391987 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:23:06.399424 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:23:06.403422 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:24:28.273804 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:24:28.277803 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:25:49.471919 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:25:49.473918 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:27:11.787130 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:27:11.790128 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:28:33.473056 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:28:33.475054 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:29:54.304035 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:29:54.306034 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:31:16.272752 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:31:16.276750 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:32:38.261820 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:32:38.263819 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:34:01.384077 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:34:01.386077 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:35:23.813109 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:35:23.815108 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:36:46.647991 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:36:46.649991 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:38:09.501255 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:38:09.503254 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:39:29.905573 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:39:29.907573 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:40:53.141960 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:40:53.143959 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:42:13.943819 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:42:13.945817 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:43:36.892106 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:43:36.894105 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:44:58.761968 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:44:58.764967 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:46:21.691471 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:47:44.263699 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:47:44.265698 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:49:06.016843 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:49:06.018842 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:50:28.044189 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:50:28.046188 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:51:49.755283 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:51:49.758281 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:53:12.373515 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:53:12.375514 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:54:35.918368 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:55:57.590744 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:55:57.593744 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:57:18.630849 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:57:18.632848 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:58:41.041233 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 18:58:41.043232 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:00:03.775528 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:00:03.777529 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:01:27.089636 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:01:27.091635 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:02:47.489284 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:02:47.491282 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:04:09.628465 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:04:09.631463 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:05:32.312076 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:05:32.315074 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:06:54.312977 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:06:54.316975 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:08:16.203887 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:08:16.205885 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:09:37.147433 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:09:37.149434 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:11:00.968579 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:11:00.970578 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:12:21.363924 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:12:21.366922 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:13:44.612015 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:13:44.615015 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:15:06.185027 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:15:06.187026 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:16:28.167289 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:16:28.169289 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:17:50.742023 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:17:50.744021 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:19:12.291065 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:19:12.297062 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:20:34.902501 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:20:34.904500 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:21:55.444458 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:21:55.446457 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:23:18.060932 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:23:18.062931 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:24:39.506969 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:24:39.510967 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:26:01.249819 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:26:01.251819 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:27:24.029812 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:27:24.031812 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:28:46.390117 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:28:46.393117 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:30:07.032139 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:30:07.035138 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:31:30.729892 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:31:30.732891 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:32:52.181030 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:32:52.184029 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:34:13.961529 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:34:13.963527 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:35:35.929646 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:35:35.931645 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:36:57.434954 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:36:57.437952 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:38:19.194954 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:38:19.196953 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:39:41.053721 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:39:41.055720 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:41:01.713463 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:41:01.718460 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:42:23.764414 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:42:23.767413 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:43:45.372541 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:43:45.375541 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:45:08.138367 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:45:08.141363 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:46:29.855786 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:46:29.862783 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:47:52.403801 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:49:13.076062 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:49:13.079061 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:50:35.970284 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:50:35.974282 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:51:57.512380 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:51:57.514379 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:53:19.164397 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:53:19.166397 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:54:39.894102 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:54:39.898101 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:56:03.200211 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:56:03.204209 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:57:25.709392 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:57:25.711392 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:58:47.597161 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 19:58:47.600159 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:00:08.312356 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:00:08.316354 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:01:30.062720 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:01:30.066718 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:02:52.000110 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:02:52.002109 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:04:15.063983 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:04:15.066982 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:05:36.810493 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:05:36.813493 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:06:59.586840 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:06:59.588839 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:08:23.013103 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:08:23.015103 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:09:43.625146 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:09:43.628145 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:11:05.241008 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:11:05.243007 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:12:26.990735 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:12:26.992733 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:13:49.783964 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:13:49.787961 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:15:10.626658 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:15:10.628658 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:16:32.897337 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:16:32.899336 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:17:55.317707 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:17:55.320705 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:19:17.310331 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:19:17.313330 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:20:40.131909 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:20:40.133909 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:22:01.893900 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:22:01.896898 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:23:24.679740 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:23:24.681738 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:24:47.417760 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:24:47.419761 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:26:08.938443 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:26:08.940442 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:27:31.666506 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:27:31.668505 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:28:54.102520 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:28:54.104518 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:30:16.793265 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:30:16.795264 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:31:38.509182 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:31:38.512180 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:33:00.087516 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:33:00.089515 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:34:20.539334 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:34:20.541334 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:35:44.539119 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:35:44.541118 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:37:07.297826 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:37:07.299824 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:38:28.787791 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:38:28.790789 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:39:50.432435 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:41:14.047144 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:41:14.049143 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:42:36.770099 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:42:36.773099 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:43:59.400942 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:43:59.404939 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:45:20.000941 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:45:20.005939 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:46:42.529745 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:46:42.531744 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:48:05.128652 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:48:05.130652 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:49:26.779783 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:49:26.781782 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:50:48.417394 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:50:48.419393 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:52:08.945390 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:52:08.950388 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:53:31.822331 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:53:31.826329 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:54:54.010362 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:54:54.014360 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:56:15.274199 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:56:15.277198 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:57:38.129801 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:57:38.131800 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:58:58.740879 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 20:58:58.744878 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:00:20.464802 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:00:20.466800 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:01:41.595411 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:01:41.597410 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:03:03.451773 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:03:03.453773 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:04:26.019220 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:04:26.023219 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:05:48.647915 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:05:48.650913 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:07:10.447371 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:07:10.450368 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:08:31.280292 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:08:31.284290 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:09:53.263804 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:09:53.268802 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:11:14.363317 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:11:14.365316 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:12:36.235731 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:12:36.238729 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:13:57.879470 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:13:57.883468 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:15:19.755235 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:15:19.759234 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:16:40.400773 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:16:40.402770 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:18:01.850093 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:18:01.852092 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:19:22.679933 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:19:22.684930 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:20:44.705200 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:20:44.708199 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:22:07.594465 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:22:07.596464 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:23:30.208043 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:23:30.210042 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:24:52.726508 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:24:52.729507 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:26:14.376288 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:26:14.378285 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:27:36.172716 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:27:36.174715 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:28:58.145856 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:28:58.147855 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:30:20.574506 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:30:20.576504 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:31:43.708618 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:31:43.711616 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:33:04.602746 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:33:04.605745 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:34:26.511237 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:34:26.513235 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:35:47.501389 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:35:47.503389 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:37:09.191667 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:37:09.193666 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:38:31.663633 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:38:31.666632 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:39:55.366059 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:39:55.368059 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:41:17.009453 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:41:17.011453 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:42:38.451787 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:42:38.453787 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:44:01.690314 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:44:01.692313 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:45:23.873003 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:45:23.875003 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:46:45.868291 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:46:45.870290 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:48:07.392536 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:48:07.394535 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:49:29.191694 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:49:29.194693 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:50:51.151989 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:50:51.154988 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:52:13.290343 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:52:13.292338 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:53:35.098746 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:53:35.100746 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:54:57.123765 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:54:57.126762 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:56:18.967956 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:56:18.969956 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:57:40.610403 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:57:40.612402 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:59:02.287613 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 21:59:02.289613 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:00:25.095202 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:00:25.097201 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:01:48.757035 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:01:48.761027 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:03:30.296303 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:03:30.298302 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:04:50.602535 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:04:50.608531 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:06:12.687280 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:06:12.690279 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:07:34.947338 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:08:55.753756 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:08:55.755752 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:10:16.602303 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:10:16.604299 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:11:37.614895 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:11:37.616894 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:12:59.194289 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:12:59.196289 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:14:21.563295 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:14:21.565294 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:15:43.317391 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:15:43.326386 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:17:05.041893 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:17:05.044890 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:18:25.779215 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:18:25.781215 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:19:49.121393 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:19:49.126391 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:21:09.627622 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:21:09.629622 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:22:31.889634 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:22:31.892633 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:23:53.705836 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:23:53.707835 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:25:15.475166 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:25:15.477164 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:26:37.040052 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:26:37.044050 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:27:58.865119 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:29:19.818119 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:29:19.821117 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:30:40.379703 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:30:40.381702 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:32:01.037888 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:32:01.039887 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:33:21.761082 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:33:21.763081 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:34:44.702225 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:34:44.704225 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:36:06.041607 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:36:06.045605 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:37:26.510663 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:37:26.513661 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:38:49.296729 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:38:49.299727 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:40:09.759321 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:40:09.762319 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:41:32.788816 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:41:32.790675 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:42:55.349445 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:42:55.351444 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:44:17.074351 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:44:17.077349 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:45:37.761376 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:45:37.763374 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:47:00.620785 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:47:00.624783 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:48:22.488222 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:48:22.490221 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:49:43.287929 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:49:43.291927 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:51:05.630138 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:51:05.632137 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:52:28.395602 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:52:28.397601 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:53:50.984744 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:53:50.986743 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:55:13.410136 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:55:13.413133 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:56:34.054203 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:56:34.056203 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:57:56.058618 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:57:56.062616 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:59:19.048549 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 22:59:19.051547 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:00:40.682790 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:00:40.684789 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:02:03.404164 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:02:03.406162 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:03:25.743130 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:03:25.747128 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:04:46.448938 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:04:46.452935 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:06:09.415392 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:06:09.419390 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:07:31.176908 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:07:31.179907 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:08:51.671706 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:08:51.673706 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:10:14.292241 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:10:14.295240 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:11:36.989217 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:11:36.991215 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:12:58.911452 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:12:58.914450 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:14:20.968233 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:14:20.970231 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:15:43.342826 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:15:43.346825 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:17:04.870099 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:18:26.840935 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:18:26.843933 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:19:47.614484 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:19:47.617483 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:21:10.233593 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:21:10.236591 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:22:32.967781 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:22:32.969780 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:23:53.558868 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:23:53.560867 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:25:15.372940 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:26:35.958320 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:26:35.960319 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:27:59.076571 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:27:59.081570 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:29:20.589411 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:30:41.427887 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:30:41.431885 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:32:02.425335 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:32:02.429334 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:33:24.562844 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:33:24.564843 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:34:45.337340 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:34:45.339339 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:36:08.068430 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:36:08.070430 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:37:28.604708 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:37:28.607706 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:38:49.391612 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:38:49.393611 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:40:11.255061 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:40:11.258060 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:41:34.043409 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:41:34.045410 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:42:54.762873 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:44:17.522134 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:44:17.524134 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:45:39.208087 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:45:39.210087 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:47:01.148186 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:48:43.088281 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:50:06.486469 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:50:06.489467 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:51:45.460510 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:51:45.463509 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:53:24.448837 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:54:46.818952 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:54:46.820951 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:56:08.319266 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:56:08.322264 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:57:47.822173 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:57:47.826171 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:59:08.277986 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-10 23:59:08.280984 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:00:48.713725 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:00:48.715723 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:02:28.545775 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:02:28.547775 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:03:48.982288 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:05:11.001122 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:06:31.786583 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:06:31.789581 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:07:54.200685 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:07:54.202684 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:09:18.674009 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:10:41.299140 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:10:41.302140 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:12:21.561406 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:12:21.563404 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:13:44.077437 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:13:44.080435 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:15:05.758635 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:15:05.759635 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:16:27.670797 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:16:27.674792 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:18:09.098329 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:18:09.100328 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:19:48.076500 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:19:48.082496 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:21:27.083766 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:21:27.086763 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:23:07.215554 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:24:46.202321 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:24:46.204320 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:26:26.313172 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:26:26.317170 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:27:48.090342 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:27:48.093340 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:29:11.068746 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:29:11.070746 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:30:33.615912 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:30:33.617911 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:31:55.362940 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:31:55.364939 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:33:17.439488 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:34:40.393116 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:34:40.396113 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:36:01.780793 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:36:01.788789 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:37:22.385617 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:37:22.387614 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:38:44.386925 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:38:44.388924 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:40:05.302917 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:40:05.304915 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:41:26.408417 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:41:26.410416 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:42:48.287404 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:42:48.290403 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:44:09.070961 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:44:09.073959 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:45:29.833176 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:46:52.004124 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:46:52.007122 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:48:14.667504 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:48:14.670503 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:49:36.413438 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:49:36.416436 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:50:57.648564 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:50:57.656558 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:52:20.487641 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:52:20.489638 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:53:42.101231 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:53:42.104230 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:55:04.721926 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:55:04.723926 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:56:25.401328 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:56:25.406324 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:57:47.000389 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:57:47.005387 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 00:59:09.721584 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:00:31.207130 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:00:31.212126 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:01:52.249902 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:01:52.251901 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:03:14.101669 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:03:14.103669 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:04:35.024328 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:04:35.026328 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:05:55.944803 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:05:55.946803 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:07:18.665942 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:08:41.242356 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:08:41.244355 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:10:04.667317 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:10:04.669316 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:11:26.029169 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:11:26.032168 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:12:46.641698 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:12:46.646696 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:14:09.880851 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:14:09.883850 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:15:33.315393 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:15:33.319391 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:16:56.856976 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:16:56.858973 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:18:19.531009 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:18:19.533009 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:19:41.459646 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:19:41.461646 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:21:04.074842 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:21:04.076841 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:22:25.761984 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:22:25.763981 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:23:49.008185 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:23:49.010184 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:25:09.676020 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:25:09.679018 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:26:32.437476 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:26:32.439474 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:27:55.079813 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:27:55.083811 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:29:17.484577 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:29:17.487573 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:30:39.126273 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:30:39.128271 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:32:03.107396 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:32:03.109394 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:33:24.552301 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:33:24.556298 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:34:45.377880 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:34:45.380879 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:36:06.348144 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:36:06.350144 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:37:28.204264 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:37:28.207264 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:38:48.990550 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:38:48.993548 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:40:12.091498 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:40:12.095496 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:41:34.077749 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:42:55.497873 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:42:55.499872 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:44:17.317139 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:44:17.321137 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:45:38.945435 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:45:38.947434 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:47:01.847510 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:47:01.849510 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:48:22.315582 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:48:22.318581 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:49:44.042355 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:49:44.045354 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:51:05.918191 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:51:05.921189 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:52:27.986103 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:53:48.712301 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:53:48.715299 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:55:11.681272 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:55:11.684270 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:56:33.217963 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:56:33.219970 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:57:55.071867 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:57:55.073866 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:59:16.086837 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 01:59:16.089835 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:00:39.099970 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:00:39.101969 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:01:59.531984 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:01:59.534983 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:03:22.192226 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:04:43.974396 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:04:43.977395 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:06:05.693944 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:06:05.695943 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:07:26.147142 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:07:26.150141 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:08:47.854550 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:08:47.856551 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:10:09.677605 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:10:09.679604 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:11:31.324670 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:11:31.329669 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:12:52.849722 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:12:52.853720 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:14:13.711908 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:14:13.714907 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:15:36.644386 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:15:36.646386 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:16:58.685099 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:16:58.687097 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:18:21.774051 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:18:21.776050 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:19:42.365464 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:19:42.367465 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:21:04.239201 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:21:04.242199 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:22:26.953078 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:22:26.955077 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:23:48.501639 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:23:48.504637 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:25:10.096287 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:25:10.099286 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:26:33.312820 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:26:33.314818 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:27:54.190032 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:29:14.859239 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:29:14.864236 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:30:36.912365 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:30:36.915363 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:31:57.748804 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:31:57.750803 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:33:18.324797 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:33:18.327797 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:34:40.733428 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:34:40.735427 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:36:01.645786 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:37:22.717833 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:38:43.822563 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:38:43.825560 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:40:05.056001 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:41:27.722556 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:41:27.725554 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:42:48.447928 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:42:48.449926 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:44:09.325105 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:44:09.327104 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:45:30.915212 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:45:30.917212 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:46:52.659159 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:46:52.663158 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:48:14.455833 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:48:14.457832 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:49:36.161779 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:49:36.163779 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:50:57.987826 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:50:57.989826 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:52:21.783496 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:52:21.786496 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:53:43.079439 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:53:43.081437 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:55:03.499707 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:55:03.501706 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:56:25.390740 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:56:25.393738 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:57:46.950003 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:57:46.953001 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:59:07.591115 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 02:59:07.593113 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:00:29.446508 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:00:29.449505 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:01:51.313579 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:01:51.317576 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:03:11.999719 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:03:12.003717 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:04:32.843995 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:05:55.514152 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:05:55.516150 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:07:18.582558 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:07:18.584556 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:08:40.381786 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:08:40.383785 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:10:02.029218 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:10:02.032218 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:11:23.712031 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:11:23.715030 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:12:45.202740 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:12:45.205737 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:14:06.896165 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:14:06.900172 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:15:29.563161 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:15:29.568157 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:16:51.128882 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:16:51.130880 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:18:12.791559 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:19:34.557510 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:19:34.559509 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:20:56.111834 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:20:56.114833 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:22:17.725849 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:22:17.727848 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:23:41.432176 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:23:41.434176 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:25:02.785591 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:25:02.787590 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:26:23.405630 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:26:23.408629 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:27:45.064345 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:27:45.067343 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:29:06.766344 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:29:06.768342 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:30:28.477655 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:30:28.479655 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:31:49.443359 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:31:49.445358 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:33:11.920900 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:33:11.926896 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:34:33.856442 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:34:33.858441 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:35:56.424331 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:35:56.428329 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:37:18.003493 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:37:18.006492 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:38:40.765073 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:40:01.075404 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:40:01.077402 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:41:23.658199 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:41:23.661198 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:42:45.391306 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:42:45.394305 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:44:07.004198 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:44:07.007208 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:45:28.794696 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:45:28.796693 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:46:52.424132 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:48:15.396272 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:48:15.398271 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:49:37.726774 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command
+Time=2019-10-11 03:49:37.731774 Name=tmi.twitch.tv 421 ch932 NO  Message=Unknown command

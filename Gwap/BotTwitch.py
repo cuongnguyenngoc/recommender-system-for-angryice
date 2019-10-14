@@ -320,8 +320,8 @@ class BotTwitch:
                 else:
                     # Replace all non-alphanumeric non-# characters in a string.
                     message = re.sub('[^0-9a-zA-Z#! ]+', '', message)
-                    if (message == ""):
+                    if message == "":
                         break
                     else:
                         self.utils.writeFile(user,message)
-                        break      
+                        break

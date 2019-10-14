@@ -13,7 +13,16 @@ class BotNotifier:
         self.utils = Utils.Utils()
 
         self.botTwitch.giving_stop_voting_signal(text) # stop voting at the beginning
-
+        
+        # in case of improving description when image shown again
+        if bool(self.botTwitch.get_audiences().get_describers()):
+            
+            for describer, value in self.botTwitch.get_audiences().get_describers().items():
+                other_role = value.get("other_role")
+                if other_role == "former_voter":
+                    self.botTwitch.sendMessage(describer + " you're just turned to describers as default as you voted the winning description for one of these image. And if the description is bad, please improve it to get more vote")
+                else:
+                    self.botTwitch.sendMessage("you created the description for one of these image, please improve your description to get more vote if you think it's not good enough")
         
         top_score_text = self.set_top_score_text()
 
@@ -89,8 +98,15 @@ class BotNotifier:
         self.botTwitch.refresh_desid()
         
         self.botTwitch.get_audiences().refresh_players()
+
         if bool(self.botTwitch.get_audiences().get_describers()):
-            self.botTwitch.sendMessage("some people are describers as default. And If your description u voted before is bad, please improve your description to get more vote")
+            
+            for describer, value in self.botTwitch.get_audiences().get_describers().items():
+                other_role = value.get("other_role")
+                if other_role == "former_voter":
+                    self.botTwitch.sendMessage(describer + " you're just turned to describers as default as you voted the winning description for one of these image. And if the description is bad, please improve it to get more vote")
+                else:
+                    self.botTwitch.sendMessage("you created the description for one of these image, please improve your description to get more vote if you think it's not good enough")
         
         self.artManager.refresh()
     
@@ -108,14 +124,15 @@ class BotNotifier:
                 text = text + "    No winner for image " + img_id + "\n"
         
         game_session = self.botTwitch.getGameSession()
-        winning_participants = self.botTwitch.get_audiences().get_participants_results(images, game_session)
+        participant_results = self.botTwitch.get_audiences().get_participants_results(images, game_session)
 
-        for u, value in winning_participants.items():
+        for u, value in participant_results.items():
             
             game_session_value = value.get(game_session)
+
             if game_session_value is not None:
+            
                 score = game_session_value.get("added_score")
-                text = text + "      User " + u + " get score " + str(score)
                 img = game_session_value.get("img")
                 des_ids = game_session_value.get("des_ids")
                 des_list = []
@@ -124,14 +141,23 @@ class BotNotifier:
                 
                 des = ";".join(des_list)
                 role = game_session_value.get("role")
-                text = text + "  " + img + "  " + des + "  " + role
-                self.utils.store_winning_user(u, game_session, img, des, role)
-        
+
+                if value.get("status") == "rewarded":
+                    
+                    message = "      User " + u + " get rewarded score " + str(score)
+                    
+                    self.utils.store_winning_user(u, game_session, img, des, role)
+                else:
+
+                    message = "      User " + u + " get minus score " + str(score) + "as punished as making poor description or voted"
+ 
+                    self.utils.store_winning_user(u, game_session, img, des, role)
+
+                # text = text + message + "  " + img + "  " + des + "  " + role
+                text = message 
+
         self.label.configure(text=text)
         self.botTwitch.sendMessage(text)
 
         top_score_text = self.set_top_score_text()
         self.top_score_label.configure(text=top_score_text)
-        
-
-

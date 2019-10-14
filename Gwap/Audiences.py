@@ -53,6 +53,11 @@ class Audiences:
         else:
             return None
 
+    def is_no_voted_description(self, img_id, des_id):
+        if self.voters.get(img_id):
+            return self.voters.get(img_id).get(des_id)
+        return None
+
     def get_winning_des_list(self, images):
         w_des_list = []
         for img_id in images:
@@ -79,29 +84,53 @@ class Audiences:
                             
                             prop[game_session] = {"img": images.get(img_id), "des_ids": [d], "role": "voter", "added_score": len(u_list)}
                             prop["total_score"] = old_score + len(u_list)
+                            prop["status"] = "rewarded"
+                            prop["other_role"] = None
                             self.participants[u] = prop
             
             for u, value in self.describers.items(): ## calculate or update scores for all describers who created winning descriptions this game session
-                d_ids = []
+                winning_d_ids = []
+                no_voted_d_ids = []
                 new_score = 0
                 added_score = 0
                 prop = {}
                 imgs = value.get('imgs')
+                other_role = value.get('other_role')
 
                 for img_id, d in imgs.items():
                     d_id = next(iter(d))
+                    added_score = 0
+
                     if d_id in winning_des_list:
-                        d_ids.append(d_id)
+                        winning_d_ids.append(d_id)
                         u_list = self.voters.get(img_id).get(d_id)
                         added_score = len(u_list)
-                        old_score = 0
-                        if u in self.participants:
-                            prop = self.participants.get(u)
-                            old_score = prop.get("total_score")
-                        new_score = old_score + added_score
-                if d_ids and new_score > 0: # update only descriptions he created won
+                        
+                    elif self.is_no_voted_description(img_id, d_id) and not other_role: # minus score as punishment
+                                                                # for original describer and former voter 
+                                                                # who created and voted for previous winning description of 
+                                                                # the image was shown before but has no vote this time
+                        no_voted_d_ids.append(d_id)
+                        added_score = -1 # minus score
+                       
+                    old_score = 0
+                    if u in self.participants:
+                        prop = self.participants.get(u)
+                        old_score = prop.get("total_score")
+                    new_score = old_score + added_score
+                
+                if winning_d_ids or no_voted_d_ids: # update only descriptions he created won or got no vote in the case of improving description
+                    status = "rewarded"
+                    d_ids = winning_d_ids
+                    if no_voted_d_ids:
+                        status = "punished"
+                        d_ids = no_voted_d_ids
+                    
                     prop[game_session] = {"img": images.get(img_id), "des_ids": d_ids, "role": "describer", "added_score": added_score}
                     prop["total_score"] = new_score
+                    prop["status"] = status
+                    prop["other_role"] = other_role
+
                     self.participants[u] = prop
         
         return self.participants

@@ -157,6 +157,10 @@ class Utils:
         f = open("winning_users_log.txt", "a")
         f.write(str(game_session) + "," + user + "," + img + "," + des + "," + role + "\n")
     
+    def store_punished_user(self, user, game_session, img, des, role):
+        f = open("punished_users_log.txt", "a")
+        f.write(str(game_session) + "," + user + "," + img + "," + des + "," + role + "\n")
+
     def transform_former_voters_to_describers_if_img_shown_again(self, images):
         describers = {} ### {u8: {'imgs': {img1: {d1: "description"}, img2: {d6: "description"}}, 'role':'former_voter'}, 
                         ###  u9:...}
@@ -168,22 +172,24 @@ class Utils:
             for line in lines:
                 components = line.split(",")
                 img_id = next((id for id, img in images.items() if img == components[2]), None)
-                if (img_id is not None):
-                    if img_id in images and components[4] == "voter":
-
-                        if components[1] in describers:
-                            props = describers.get(components[1])
-                            
-                            props.get('imgs')[img_id] = {str(des_id): components[3]}
-                            props['other_role'] = 'former_voter'
-                            
-                            props[img_id] = {str(des_id): components[3]}
-                            describers[components[1]] = props
-                        else:
-                            describers[components[1]] = {'imgs': {img_id: {str(des_id): components[3]}}, 
-                                                        'other_role': 'former_voter'}
+                if img_id is not None:
+                    other_role = "original_describer"
+                    if components[4] == "voter":
+                        other_role = "former_voter"
+                    
+                    if components[1] in describers:
+                        props = describers.get(components[1])
                         
-                        des_id += 1
+                        props.get('imgs')[img_id] = {str(des_id): components[3]}
+                        props['other_role'] = other_role
+                        
+                        props[img_id] = {str(des_id): components[3]}
+                        describers[components[1]] = props
+                    else:
+                        describers[components[1]] = {'imgs': {img_id: {str(des_id): components[3]}}, 
+                                                    'other_role': other_role}
+
+                    des_id += 1
         except:
             pass
         
