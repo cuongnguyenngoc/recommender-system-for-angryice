@@ -1,4 +1,4 @@
-import csv, requests, random, datetime, os
+import csv, requests, random, datetime, os, json
 
 class Utils:
     def __init__(self):
@@ -7,7 +7,7 @@ class Utils:
         self.url_bg_img3 = ""
 
     def retrieveImages(self):
-        with open('data.csv', 'r') as f:
+        with open('data_test.csv', 'r') as f:
             reader = csv.reader(f)
             your_list = list(reader)
             bg_pick1 = (random.randint(1, len(your_list)-1))
@@ -165,35 +165,51 @@ class Utils:
         describers = {} ### {u8: {'imgs': {img1: {d1: "description"}, img2: {d6: "description"}}, 'role':'former_voter'}, 
                         ###  u9:...}
         des_id = 0
-        try:
-            f = open('winning_users_log.txt', 'r')
-            lines = f.read().splitlines()
-            
-            for line in lines:
-                components = line.split(",")
-                img_id = next((id for id, img in images.items() if img == components[2]), None)
-                if img_id is not None:
-                    other_role = "original_describer"
-                    if components[4] == "voter":
-                        other_role = "former_voter"
-                    
-                    if components[1] in describers:
-                        props = describers.get(components[1])
-                        
-                        props.get('imgs')[img_id] = {str(des_id): components[3]}
-                        props['other_role'] = other_role
-                        
-                        props[img_id] = {str(des_id): components[3]}
-                        describers[components[1]] = props
-                    else:
-                        describers[components[1]] = {'imgs': {img_id: {str(des_id): components[3]}}, 
-                                                    'other_role': other_role}
-
-                    des_id += 1
-        except:
-            pass
+        # try:
+        f = open('winning_users_log.txt', 'r')
+        lines = f.read().splitlines()
         
+        for line in lines:
+            
+            components = line.split(",")
+            img_id = next((id for id, img in images.items() if img == components[2]), None)
+            
+            if img_id is not None:
+                print("three")
+                print("two " + components[2] + " images dict " + str(json.dumps(images)))
+                other_role = "original_describer"
+                if components[4] == "voter":
+                    other_role = "former_voter"
+                    des_id += 1
+                
+                if components[1] in describers:
+                    props = describers.get(components[1])
+                    
+                    props.get('imgs')[img_id] = {str(des_id): components[3]}
+                    props['other_role'] = other_role
+                    
+                    # props[img_id] = {str(des_id): components[3]}
+                    describers[components[1]] = props
+                else:
+                    describers[components[1]] = {'imgs': {img_id: {str(des_id): components[3]}}, 
+                                                'other_role': other_role}
+
+        # except:
+        #     pass
         return (des_id, describers)
 
     # props['imgs'] = {img_id: {str(des_id): components[3]}}
     # props['other_role'] = 'former_voter'
+
+    def store_participants_info(self, participants):
+        with open('participants_info.txt', 'w') as outfile:
+            json.dump(participants, outfile)
+    
+    def load_participants_info(self):
+        participants = {}
+        try:
+            with open('participants_info.txt') as json_file:
+                participants = json.load(json_file)
+        except:
+            pass
+        return participants

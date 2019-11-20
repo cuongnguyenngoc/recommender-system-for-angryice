@@ -1,4 +1,4 @@
-import socket, time, datetime, re
+import socket, time, datetime, re, json
 
 import Utils, Audiences
 
@@ -19,7 +19,7 @@ class BotTwitch:
         self.isStopVotingSignal = False
         self.game_session = self.utils.get_last_game_session() + 1
         # self.game_session = 0
-
+        
         self.audiences = Audiences.Audiences(artManager.get_images())
 
         self.des_id = self.audiences.get_init_des_id()
@@ -44,8 +44,9 @@ class BotTwitch:
     def get_descriptions(self):
         des = {}
         for v in self.audiences.get_describers().values():
-            for i in v.get('imgs').values():
-                des.update(i)
+            if v.get('other_role') != 'original_describer':
+                for i in v.get('imgs').values():
+                    des.update(i)
         return des
 
     def get_img_id(self, des_id):
@@ -184,7 +185,8 @@ class BotTwitch:
     ################################# Command ##################################
     ############ Here you can add as many commands as you wish of ! ############
     ############################################################################
-                self.utils.writeFileLog(user,message) #write log file
+                self.utils.writeFileLog(user, message) #write log file
+
                 if (user == self.OWNER) and (message == "!next\r"):
                     self.utils.writeFile(user,"!next")
                     self.sendMessage("Next level")
@@ -271,7 +273,13 @@ class BotTwitch:
                     break
                 elif (not self.isStopVotingSignal) and self.isStopDescribingSignal and (user != self.OWNER) and message.startswith("#"):
                     print(user + " what is going on " + message)
-                    if user not in self.audiences.get_describers():
+                    # if user not in self.audiences.get_describers():
+                    other_role = None
+                    if user in self.audiences.get_describers():
+                        other_role = self.audiences.get_describers().get(user).get('other_role')
+                    # user who are not describer and used to be original_describer for an used-to-shown image can vote
+                    if user not in self.audiences.get_describers() or other_role == 'original_describer':
+
                         des_id = message.replace("#", "")
                         descriptions = self.get_descriptions()
                         if des_id in descriptions:

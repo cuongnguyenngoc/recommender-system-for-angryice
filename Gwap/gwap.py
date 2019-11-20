@@ -12,14 +12,14 @@ class Main:
         global botTwitch
         global artManager
         # self.runGwapWindow(artManager, botTwitch)
-        thread1 = threading.Thread(target=self.runGwapWindow, args=(artManager,botTwitch,))
+        thread1 = threading.Thread(target=self.runGwapWindow, args=(artManager, botTwitch,))
         thread1.start()
-        # botTwitch.MainBotProcess(artManager)
-        thread2 = threading.Thread(target=botTwitch.MainBotProcess, args=(artManager,))
-        thread2.start()
+        botTwitch.MainBotProcess(artManager)
+        # thread2 = threading.Thread(target=botTwitch.MainBotProcess, args=(artManager,))
+        # thread2.start()
 
-        thread3 = threading.Thread(target=botTwitch.CheckScoreProcess)
-        thread3.start()
+        # thread3 = threading.Thread(target=botTwitch.CheckScoreProcess)
+        # thread3.start()
         
 
     def runGwapWindow(self, artManager, botTwitch):

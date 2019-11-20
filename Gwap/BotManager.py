@@ -1,33 +1,51 @@
 from tkinter import *
 import tkinter as tk
 import Utils
+import json
 
 class BotNotifier:
     def __init__(self, window, artManager, botTwitch):
-        text = 'Please describe pictures on the right of screen you prefer follow format "imageID:discription"'
-        self.label = Label(window, text=text, bg="green", fg="white", font="none 20 italic", wraplength=1250)
-        self.label.place(x=10, y=870)
+        
 
         self.artManager = artManager
         self.botTwitch = botTwitch
         self.utils = Utils.Utils()
 
+        text = 'Please describe pictures on the right of screen you prefer follow format "imageID:discription"\n'
+        # text = 'Please describe pictures' + str(json.dumps(self.botTwitch.get_audiences().get_describers()))
+        
+
         self.botTwitch.giving_stop_voting_signal(text) # stop voting at the beginning
         
         # in case of improving description when image shown again
         if bool(self.botTwitch.get_audiences().get_describers()):
-            
+
             for describer, value in self.botTwitch.get_audiences().get_describers().items():
                 other_role = value.get("other_role")
+                msg = ""
                 if other_role == "former_voter":
-                    self.botTwitch.sendMessage(describer + " you're just turned to describers as default as you voted the winning description for one of these image. And if the description is bad, please improve it to get more vote")
+                    msg = describer + " turned from voter to describer as default with description he voted: "
+                    text = text + describer + " turned from voter to describer as default with description he voted: \n"
                 else:
-                    self.botTwitch.sendMessage("you created the description for one of these image, please improve your description to get more vote if you think it's not good enough")
+                    text = text + describer + "  created the description: \n"
+                    msg = describer + "  created the description: "
+                for img, i in value.get('imgs').items():
+                    msg = msg + ' '.join(str(key) + ":" + val for (key,val) in i.items()) + ' for image ' + img
+                    text = text + ' '.join(str(key) + ":" + val for (key,val) in i.items()) + ' for image ' + img + '\n'
+                msg = msg + 'Update your descriptions to get more vote if necessary'
+                self.botTwitch.sendMessage(msg)
+            text = text + 'Update your descriptions to get more vote if necessary'     
         
+        self.label = Label(window, text=text, bg="green", fg="white", font="none 20 italic", wraplength=1250)
+        self.label.place(x=10, y=870)
+
         top_score_text = self.set_top_score_text()
 
         self.top_score_label = Label(window, text=top_score_text, bg="blue", fg="white", font="none 20 italic")
         self.top_score_label.place(x=1310, y=870)
+
+        top_score_text = self.set_top_score_text()
+        self.top_score_label.configure(text=top_score_text)
 
         self.session = 0
         self.twinkle_signal = 0
@@ -76,39 +94,66 @@ class BotNotifier:
 
     def change_label_text(self):
         text = "Time of describing is up. "
+        # text = "Time of describing is up. " + str(json.dumps(self.botTwitch.get_audiences().get_describers()))
 
-        descriptions = self.botTwitch.get_descriptions()
-        if bool(descriptions):
+        # descriptions = self.botTwitch.get_descriptions()
+        # if bool(descriptions):
+        #     text = text + 'Please vote for these descriptions following format "#description_id":\n'
+        if bool(self.botTwitch.get_audiences().get_describers()):
             text = text + 'Please vote for these descriptions following format "#description_id":\n'
+            des_s = []
+            for describer, value in self.botTwitch.get_audiences().get_describers().items():
+
+                for img, i in value.get('imgs').items():
+                    des = next(iter(str(key) + ':' + val for (key,val) in i.items()))
+                    if des not in des_s:
+                        des_s.append(des)
+                        text = text + ' '.join(str(key) + ":" + val for (key,val) in i.items()) + ' for image ' + img
         
-        for k, v in descriptions.items():
-            text = text + "     " + k + ": " + v 
+        # for k, v in descriptions.items():
+        #     text = text + "     " + k + ": " + v 
         
         self.label.configure(text=text)
         self.botTwitch.giving_stop_describing_signal(text)
         self.utils.retrieveImages() # random retrieve other images
 
     def revert_label_text(self):
-        text = 'Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"'
-        self.label.configure(text=text)
-
-        self.botTwitch.giving_stop_voting_signal(text)
 
         self.botTwitch.setGameSession() # increase game session to next round
         self.botTwitch.refresh_desid()
-        
-        self.botTwitch.get_audiences().refresh_players()
 
+        self.artManager.refresh() # refresh to new images
+        
+        self.botTwitch.get_audiences().refresh_players(self.artManager.get_images())
+
+        text = 'Next round. Please describe pictures on the right of screen you prefer follow format "imageID:discription"\n'
+        # text = "Next round. Please describe " + str(json.dumps(self.botTwitch.get_audiences().get_describers()))
+        # in case of improving description when image shown again
         if bool(self.botTwitch.get_audiences().get_describers()):
             
             for describer, value in self.botTwitch.get_audiences().get_describers().items():
                 other_role = value.get("other_role")
+                msg = ""
                 if other_role == "former_voter":
-                    self.botTwitch.sendMessage(describer + " you're just turned to describers as default as you voted the winning description for one of these image. And if the description is bad, please improve it to get more vote")
+                    msg = describer + " just turned from voter to describer as default with description he voted: "
+                    text = text + describer + " just turned from voter to describer as default with description he voted: \n"
                 else:
-                    self.botTwitch.sendMessage("you created the description for one of these image, please improve your description to get more vote if you think it's not good enough")
+                    text = text + describer + "  created the description: \n"
+                    msg = describer + "  created the description: "
+                for img, i in value.get('imgs').items():
+                    msg = msg + ' '.join(str(key) + ":" + val for (key,val) in i.items()) + ' for image ' + img
+                    text = text + ' '.join(str(key) + ":" + val for (key,val) in i.items()) + ' for image ' + img + '\n'
+                msg = msg + 'Update your descriptions to get more vote if necessary'
+                
+                self.botTwitch.sendMessage(msg)
+            text = text + 'Update your descriptions to get more vote if necessary'
+            
+        self.label.configure(text=text)
+
+        self.botTwitch.giving_stop_voting_signal(text)
+       
         
-        self.artManager.refresh()
+        
     
     def showing_winner(self):
         text = "Time is up for voting. Winners for this round are:\n"
@@ -132,32 +177,50 @@ class BotNotifier:
 
             if game_session_value is not None:
             
-                score = game_session_value.get("added_score")
-                img = game_session_value.get("img")
-                des_ids = game_session_value.get("des_ids")
-                des_list = []
-                for did in des_ids:
-                    des_list.append(descriptions.get(did))
+                added_score = game_session_value.get("added_score")
+                if added_score is None:
+                    print("added_score None")
+                else:
+                    print("added_score " + str(added_score))
+                win_or_novoted_img_desid = game_session_value.get("img_w_des")
+                # des_ids = game_session_value.get("des_ids")
+                # des_list = []
+                # for did in des_ids:
+                #     des_list.append(descriptions.get(did))
                 
-                des = ";".join(des_list)
+                # des = ";".join(des_list)
                 role = game_session_value.get("role")
 
-                if value.get("status") == "rewarded":
+                for img, vl in win_or_novoted_img_desid.items():
+                    did = vl[0]
+                    stt = vl[1]
+                    score = vl[2]
+                    if stt == "winning":
+                        message = "      User " + u + " get rewarded score " + str(score) + " for description " + descriptions.get(did) + "\n"
+                        self.utils.store_winning_user(u, game_session, img, descriptions.get(did), role)
+                    else:
+                        if score is not None:
+                            print("GOOOD")
+                            message = "      User " + u + " get minus score " + str(score) + " as punished for making poor description or voted " + descriptions.get(did) + "\n"
+                        else:
+                            print("I have no idea why score is none here")
+                
+                # if value.get("status") == "rewarded":
                     
-                    message = "      User " + u + " get rewarded score " + str(score)
+                #     message = "      User " + u + " get rewarded score " + str(score) + "\n"
                     
-                    self.utils.store_winning_user(u, game_session, img, des, role)
-                else:
+                #     self.utils.store_winning_user(u, game_session, img, des, role)
+                # else:
 
-                    message = "      User " + u + " get minus score " + str(score) + "as punished as making poor description or voted"
+                #     message = "      User " + u + " get minus score " + str(score) + "as punished as making poor description or voted" + "\n"
  
-                    self.utils.store_winning_user(u, game_session, img, des, role)
+                #     self.utils.store_winning_user(u, game_session, img, des, role)
 
-                # text = text + message + "  " + img + "  " + des + "  " + role
-                text = message 
+                text = text + message
 
         self.label.configure(text=text)
         self.botTwitch.sendMessage(text)
+        self.utils.store_participants_info(participant_results)
 
         top_score_text = self.set_top_score_text()
         self.top_score_label.configure(text=top_score_text)

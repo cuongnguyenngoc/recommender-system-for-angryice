@@ -1,16 +1,15 @@
 from tkinter import *
 import tkinter as tk
 from PIL import ImageTk, Image
-import requests, csv, random
+import requests, csv, random, json
 import Utils
 
 class ArtManager:
     def __init__(self):
         self.images = {}
+        self.set_images()
 
     def initialize_window(self, window):
-
-        self.set_images()
 
         bg_img1_order = "1"
         bg_img2_order = "2"
@@ -63,16 +62,29 @@ class ArtManager:
     
     def set_images(self):
         self.images = {}
+        name_bg_file_lines = []
+        is_error = False
         try:
+            open("../VoteImage/image1.jpg")
+            open("../VoteImage/image2.jpg")
+            open("../VoteImage/image3.jpg")
             name_bg_file = open('../VoteImage/name_bg.txt','r')
             name_bg_file_lines = name_bg_file.read().splitlines()
-
-            bg_img1_order = "1"
-            bg_img2_order = "2"
-            bg_img3_order = "3"
-
-            self.images[bg_img1_order] = name_bg_file_lines[0]
-            self.images[bg_img2_order] = name_bg_file_lines[1]
-            self.images[bg_img3_order] = name_bg_file_lines[2]
         except:
+            is_error = True
+            
+        
+        # name_bg_file = open('../VoteImage/name_bg.txt','r')
+        # name_bg_file_lines = name_bg_file.read().splitlines()
+        if name_bg_file_lines or is_error:
             Utils.Utils().retrieveImages()
+            name_bg_file = open('../VoteImage/name_bg.txt','r')
+            name_bg_file_lines = name_bg_file.read().splitlines()
+        
+        bg_img1_order = "1"
+        bg_img2_order = "2"
+        bg_img3_order = "3"
+
+        self.images[bg_img1_order] = name_bg_file_lines[0]
+        self.images[bg_img2_order] = name_bg_file_lines[1]
+        self.images[bg_img3_order] = name_bg_file_lines[2]
