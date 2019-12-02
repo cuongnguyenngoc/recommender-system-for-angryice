@@ -1,9 +1,8 @@
 from tkinter import *
-import tkinter as tk
-import BotManager, ArtManager, Utils, BotTwitch
+import BotManager, ArtManager1, Utils, BotTwitch
 import threading
 
-artManager = ArtManager.ArtManager()
+artManager = ArtManager1.ArtManager1()
 botTwitch = BotTwitch.BotTwitch(artManager)
 
 class Main:
@@ -23,13 +22,14 @@ class Main:
         
 
     def runGwapWindow(self, artManager, botTwitch):
-        window = tk.Tk()
+        window = Tk()
         window.title('GWAP for Ukiyo-e images')
-        window.geometry("1660x1040")
+        window.geometry("1660x960+5+10")
         window.resizable(0, 0)
-
+        window.configure(background='white')
+        
         artManager.initialize_window(window)
-        botManager = BotManager.BotNotifier(window, artManager, botTwitch)
+        botManager = BotManager.BotNotifier(artManager, botTwitch)
         window.mainloop()
 
 # Run everything here

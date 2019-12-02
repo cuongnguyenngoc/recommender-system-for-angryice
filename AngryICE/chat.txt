@@ -1,23 +1,3737 @@
 tmi.twitch.tv 421 ch932 NO :Unknown command
 tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 UPDATE :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 UPDATE :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:Chat room joined!
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:cuongnguyenngocnsm turned from voter to describer as default with description he voted 1house for image 1Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 1Update your descriptions to get more vote if necessary
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:Time is up for voting Winners for this round are
+ch932:Chat room joined!
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:cuongnguyenngocnsm just turned from voter to describer as default with description he voted 1house for image 3Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 3Update your descriptions to get more vote if necessary
+ch932:Next round Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+ch932:Chat room joined!
+ch932:Chat room joined!
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up Please vote for these descriptions following format #descriptionid
+ch932:Chat room joined!
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:cuongnguyenngocnsm turned from voter to describer as default with description he voted 1house for image 1Update your descriptions to get more vote if necessary
+ch932:cuongnguyenngocnsm turned from voter to describer as default with description he voted 1house for image 1Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 1Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 1Update your descriptions to get more vote if necessary
+ch932:Time is up for voting Winners for this round are
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:cuongnguyenngocnsm just turned from voter to describer as default with description he voted 1house for image 1Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 1Update your descriptions to get more vote if necessary
+ch932:Next round Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+ese descriptions following format #descriptionid
+tmi.twitch.tv 421 ch932 NO :Unknown command
+round are
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:Next round Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up
+tmi.twitch.tv 421 ch932 NO :Unknown command
+round are
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:cuongnguyenngocnsm just turned from voter to describer as default with description he voted 1house for image 1Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 1Update your descriptions to get more vote if necessary
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+een you prefer follow format imageIDdiscription
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+ch932:Chat room joined!
+ch932:Chat room joined!
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:cuongnguyenngocnsm turned from voter to describer as default with description he voted 1house for image 1Update your descriptions to get more vote if necessary
+ch932:cuongnguyenngocnsm turned from voter to describer as default with description he voted 1house for image 1Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 1Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 1Update your descriptions to get more vote if necessary
+ch932:Chat room joined!
+ch932:Chat room joined!
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:cuongnguyenngocnsm turned from voter to describer as default with description he voted 1house for image 2Update your descriptions to get more vote if necessary
+ch932:cuongnguyenngocnsm turned from voter to describer as default with description he voted 1house for image 2Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 2Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 2Update your descriptions to get more vote if necessary
+ch932:Chat room joined!
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:cuongnguyenngocnsm turned from voter to describer as default with description he voted 1house for image 3Update your descriptions to get more vote if necessary
+ch932:cuongnguyenngocnsm turned from voter to describer as default with description he voted 1house for image 3Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 3Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 3Update your descriptions to get more vote if necessary
+ch932:Chat room joined!
+ch932:Chat room joined!
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:cuongnguyenngocnsm turned from voter to describer as default with description he voted 1house for image 1Update your descriptions to get more vote if necessary
+ch932:cuongnguyenngocnsm turned from voter to describer as default with description he voted 1house for image 1Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 1Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 1Update your descriptions to get more vote if necessary
+ch932:Chat room joined!
+ch932:Chat room joined!
+ch932:Chat room joined!
+ch932:Chat room joined!
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:cuongnguyenngocnsm turned from voter to describer as default with description he voted 1house for image 3Update your descriptions to get more vote if necessary
+ch932:cuongnguyenngocnsm turned from voter to describer as default with description he voted 1house for image 3Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 3Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 3Update your descriptions to get more vote if necessary
+ch932:Chat room joined!
+ch932:Chat room joined!
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:cuongnguyenngocnsm turned from voter to describer as default with description he voted 1house for image 3Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 3Update your descriptions to get more vote if necessary
+ch932:Chat room joined!
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:cuongnguyenngocnsm turned from voter to describer as default with description he voted 1house for image 1Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 1Update your descriptions to get more vote if necessary
+ch932:Chat room joined!
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:cuongnguyenngocnsm turned from voter to describer as default with description he voted 1house for image 2Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 2Update your descriptions to get more vote if necessary
+ch932:Chat room joined!
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:cuongnguyenngocnsm turned from voter to describer as default with description he voted 1house for image 1Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 1Update your descriptions to get more vote if necessary
+ch932:Chat room joined!
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:cuongnguyenngocnsm turned from voter to describer as default with description he voted 1house for image 1Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 1Update your descriptions to get more vote if necessary
+ch932:Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:cuongnguyenngocnsm turned from voter to describer as default with description he voted 1house for image 3Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 3Update your descriptions to get more vote if necessary
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+ch932:Time of describing is up Please vote for these descriptions following format #descriptionid
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:Time is up for voting Winners for this round are
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:cuongnguyenngocnsm just turned from voter to describer as default with description he voted 1house for image 3Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 3Update your descriptions to get more vote if necessary
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+ch932:Next round Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+ch932:Time of describing is up Please vote for these descriptions following format #descriptionid
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:Time is up for voting Winners for this round are
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:Next round Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up
+ch932:Time is up for voting Winners for this round are
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:cuongnguyenngocnsm just turned from voter to describer as default with description he voted 1house for image 3Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 3Update your descriptions to get more vote if necessary
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+ch932:Next round Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+ch932:Time of describing is up Please vote for these descriptions following format #descriptionid
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:Time is up for voting Winners for this round are
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:cuongnguyenngocnsm just turned from voter to describer as default with description he voted 1house for image 3Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 3Update your descriptions to get more vote if necessary
+ch932:Next round Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+ch932:Time of describing is up Please vote for these descriptions following format #descriptionid
+tmi.twitch.tv 421 ch932 NO :Unknown command
+round are
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:cuongnguyenngocnsm just turned from voter to describer as default with description he voted 1house for image 2Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 2Update your descriptions to get more vote if necessary
+ch932:Next round Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+ch932:Time of describing is up Please vote for these descriptions following format #descriptionid
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:Time is up for voting Winners for this round are
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:cuongnguyenngocnsm just turned from voter to describer as default with description he voted 1house for image 2Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 2Update your descriptions to get more vote if necessary
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+ch932:Next round Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+tmi.twitch.tv 421 ch932 JUSTINNGUYENJ :Unknown command
+ch932:Time of describing is up Please vote for these descriptions following format #descriptionid
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+ch932:Time is up for voting Winners for this round are
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:cuongnguyenngocnsm just turned from voter to describer as default with description he voted 1house for image 3Update your descriptions to get more vote if necessary
+ch932:justinnguyenj created the description 1house for image 3Update your descriptions to get more vote if necessary
+ch932:Next round Please describe pictures on the right of screen you prefer follow format imageIDdiscription
+tmi.twitch.tv 421 ch932 CUONGNGUYENNGOCNSM :Unknown command
+ch932:Time of describing is up Please vote for these descriptions following format #descriptionid
+tmi.twitch.tv 421 ch932 1:HOUSE Unknown command
+ch932:Time is up for voting Winners for this round are
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:Chat room joined!
+ch932:Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Chat room joined!
+ch932:Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up
+ch932:Time of describing is up
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Chat room joined!
+ch932:Chat room joined!
+ch932:Chat room joined!
+ch932:Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:You cannot describe picture in voting session
+ch932:You cannot describe picture in voting session
+ch932:You cannot describe picture in voting session
+ch932:You have updated description for image 1
+ch932:You have updated description for image 1
+ch932:You have updated description for image 1
+ch932:You cannot describe picture in voting session
+ch932:You cannot describe picture in voting session
+ch932:You have updated description for image 1
+ch932:You have updated description for image 1
+ch932:You have updated description for image 1
+ch932:You cannot describe picture in voting session
+ch932:You have updated description for image 1
+ch932:You have updated description for image 1
+ch932:You have updated description for image 1
+ch932:You have updated description for image 1
+ch932:You have updated description for image 1
+ch932:You have updated description for image 1
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time is up for voting Winners for this round are
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:Time is up for voting Winners for this round are
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up
+ch932:Time of describing is up
+ch932:Time of describing is up
+ch932:Time is up for voting Winners for this round are
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:Time is up for voting Winners for this round are
+tmi.twitch.tv 421 ch932 NO :Unknown command
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Chat room joined!
+ch932:Chat room joined!
+ch932:Chat room joined!
+ch932:Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:You cannot describe picture in voting session
+ch932:You cannot describe picture in voting session
+ch932:You have updated description for image 1
+ch932:You have updated description for image 1
+ch932:You have updated description for image 1
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up
+ch932:Time of describing is up
+ch932:Time of describing is up
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up
+ch932:Time of describing is up
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up
+ch932:Time of describing is up
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up
+ch932:Time of describing is up
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up
+ch932:Time of describing is up
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up
+ch932:Time of describing is up
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time is up for voting Winners for this round are
+ch932:Time is up for voting Winners for this round are
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time of describing is up Please vote for descriptions for each image on the screen following format #descriptionid
+ch932:Time is up for voting Winners for this round are
+ch932:Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up
+ch932:Next round Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Time of describing is up
+ch932:You cannot describe picture in voting session
+ch932:Chat room joined!
+ch932:Chat room joined!
+ch932:Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:Please describe pictures on the screen you prefer follow format imageIDdiscription
+ch932:You cannot describe picture in voting session
+ch932:good job describe please justinnguyenj 1haha
+ch932:You have updated description for image 1
+ch932:good job describe please justinnguyenj 2haha
+ch932:You cannot describe picture in voting session
+ch932:You have updated description for image 2
+ch932:good job describe please justinnguyenj 2uaua
+ch932:You cannot describe picture in voting session
+ch932:You have updated description for image 2
+justinnguyenj:ikaka
+justinnguyenj:ikaka
+ch932:You cannot describe picture in voting session
+ch932:good job describe please justinnguyenj 3uauau
+ch932:You have updated description for image 3
+ch932:Time of describing is up
+ch932:Time of describing is up
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
 tmi.twitch.tv 421 ch932 NO :Unknown command
 tmi.twitch.tv 421 ch932 NO :Unknown command
 tmi.twitch.tv 421 ch932 0: Unknown command
 tmi.twitch.tv 421 ch932 NO :Unknown command
-tmi.twitch.tv 421 ch932 0: Unknown command
-tmi.twitch.tv 421 ch932 0: Unknown command
 tmi.twitch.tv 421 ch932 NO :Unknown command
-tmi.twitch.tv 421 ch932 0: Unknown command
-tmi.twitch.tv 421 ch932 0: Unknown command
 tmi.twitch.tv 421 ch932 NO :Unknown command
-tmi.twitch.tv 421 ch932 0: Unknown command
-tmi.twitch.tv 421 ch932 0: Unknown command
-tmi.twitch.tv 421 ch932 NO :Unknown command
-tmi.twitch.tv 421 ch932 0: Unknown command
-tmi.twitch.tv 421 ch932 0: Unknown command
-tmi.twitch.tv 421 ch932 NO :Unknown command
-tmi.twitch.tv 421 ch932 0: Unknown command
+justinnguyenj:a beach
 tmi.twitch.tv 421 ch932 NO :Unknown command
 tmi.twitch.tv 421 ch932 NO :Unknown command
 tmi.twitch.tv 421 ch932 NO :Unknown command
 tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 0: Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 6: Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 6: Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 6: Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 6: Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+cuongnguyenngocnsm:7
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+tmi.twitch.tv 421 ch932 NO :Unknown command
+justinnguyenj:1hahah2
+justinnguyenj:kfshkfhs2hfkhsd
+justinnguyenj:4hsf
+justinnguyenj:1lalal
+ch932:Chat room joined!
+ch932:Chat room joined!
+icelabuki:I wanna go home
+icelabuki:Dark Screen Customer is leaving
+icelabuki:3 a woman
+justinnguyenj:in a war
+icelabuki:hi
+twitchplayab:OK
+wei_zhenao:123454
+ebinkatsu:yo!
+ebinkatsu:Im hungry
+ebinkatsu:!M
+icelabuki:man too small texts
+ebinkatsu:I cant read the floating text embedded in the player
+wei_zhenao:a men under the tree
+wei_zhenao:3natural scenery
+icelabuki:RIETEEVJNBBV
+icelabuki:MM
+icelabuki:MMMMNMM

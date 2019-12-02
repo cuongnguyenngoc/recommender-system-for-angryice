@@ -39,23 +39,10 @@ class BotTwitch:
     
     def set_audiences(self, audiences):
         self.audiences = audiences
-    
-    
-    def get_descriptions(self):
-        des = {}
-        for v in self.audiences.get_describers().values():
-            if v.get('other_role') != 'original_describer':
-                for i in v.get('imgs').values():
-                    des.update(i)
-        return des
 
     def get_img_id(self, des_id):
-        # describers: {1: {'imgs': {img1: {d1: "des1"}, img2: {d6: "des2"}}, 'other_role':'former_voter'}, 2: {"": {"img1": {"d3": "des3"}, "img2": {"d4": "des4"}}, 'other_role': 'none'}
-        # describers.values(): {'imgs': {"img1": {"d1": "des1"}, "img2": {"d2": "des2"}}, 'other_role': 'former_voter',...}
-        for value in self.audiences.get_describers().values():
-            for k, v in value.get('imgs').items(): # "img1": {"d1": "des1"}, "img2": {"d2": "des2"}
-                if des_id in v: # v: {"d1": "des1"}
-                    return k
+        if des_id in self.audiences.get_descriptions():
+            return self.audiences.get_descriptions().get(des_id)[0]
         return None
 
     def refresh_desid(self):
@@ -81,15 +68,15 @@ class BotTwitch:
         else:
             return True
 
-    def giving_stop_describing_signal(self, message):
+    def giving_stop_describing_signal(self):
         print("Stop describing now")
-        self.sendMessage(message)
+        # self.sendMessage(message)
         self.isStopDescribingSignal = True
         self.isStopVotingSignal = False
 
-    def giving_stop_voting_signal(self, message):
+    def giving_stop_voting_signal(self):
         print("Stop voting now")
-        self.sendMessage(message)
+        # self.sendMessage(message)
         self.isStopVotingSignal = True
         self.isStopDescribingSignal = False
 
@@ -177,7 +164,7 @@ class BotTwitch:
                 # get message send by user
                 message = self.getMessage(line)
                 # for you to see the chat from CMD             
-                print(user + " > " + message)         
+                # print(user + " > " + message)         
                 # sends private msg to the user (start line)
                 PMSG = "/w " + user + " "
                 
@@ -245,82 +232,90 @@ class BotTwitch:
                     break
                 elif (not self.isStopDescribingSignal) and self.isStopVotingSignal and (user != self.OWNER) and len(message.split(":")) == 2 and message.split(":")[0].isdigit():
                     print(user + " and " + message)
-                    
-                    if bool(self.get_descriptions()):
-                        self.des_id += 1
-                    
+
                     imgs = {}
-                    other_role = None
                     if user in self.audiences.get_describers():
-                        imgs = self.audiences.get_describers().get(user).get('imgs')
-                        other_role = self.audiences.get_describers().get(user).get('other_role')
+                        imgs = self.audiences.get_describers().get(user)
                     
                     img_id = message.split(":")[0]
                     description = message.split(":")[1]
                     images = artManager.get_images()
 
                     if img_id in images:
+                        did = str(self.des_id)
                         if img_id in imgs:
                             self.sendMessage("You have updated description for image " + img_id)
+                            did = next(iter(imgs.get(img_id))) #string
+                        else:
+                            self.des_id += 1
                         
-                        imgs[img_id] = {str(self.des_id): description}
+                        self.audiences.get_descriptions()[did] = (img_id, description)
+                        self.audiences.get_descriptions()[did] = (img_id, description)
+                        imgs[img_id] = {did: description}
                         
-                        self.audiences.get_describers()[user] = {'imgs': imgs, 'other_role': other_role}
+                        self.audiences.get_describers()[user] = imgs
 
                         self.utils.writeVoteAndTagsData(user, message, images, self.game_session)
+
+                        print("descriptions in botTwitch " + json.dumps(self.audiences.get_descriptions()))
                     else:
                         self.sendMessage("There is no typed image id shown on the screen. Please try again following the format.")
                     break
-                elif (not self.isStopVotingSignal) and self.isStopDescribingSignal and (user != self.OWNER) and message.startswith("#"):
-                    print(user + " what is going on " + message)
-                    # if user not in self.audiences.get_describers():
-                    other_role = None
-                    if user in self.audiences.get_describers():
-                        other_role = self.audiences.get_describers().get(user).get('other_role')
-                    # user who are not describer and used to be original_describer for an used-to-shown image can vote
-                    if user not in self.audiences.get_describers() or other_role == 'original_describer':
+                elif (not self.isStopVotingSignal) and self.isStopDescribingSignal and (user != self.OWNER) and message.startswith("#"):                    
 
-                        des_id = message.replace("#", "")
-                        descriptions = self.get_descriptions()
+                    if user not in self.audiences.get_describers():
+
+                        des_id = message.replace("#", "") # string
+                        descriptions = self.audiences.get_descriptions()
                         if des_id in descriptions:
-                            description = descriptions.get(des_id)
-                            img_id = self.get_img_id(des_id)
+                            description = descriptions.get(des_id)[1]
+
+                            is_voted = True
+                            if user in self.audiences.get_old_participants():
+                                if description == self.audiences.get_old_participants().get(user).get("des"):
+                                    is_voted = False
+                                    self.sendMessage("Sorry you cannot vote for this description because it was the winning description you voted or created before")
                             
-                            des_list = {}
-                            if img_id in self.audiences.get_voters():
-                                des_list = self.audiences.get_voters().get(img_id)
-                            
-                            users = []
-                            if des_id in des_list:
-                                users = des_list.get(des_id)
-                            
-                                if user not in users:
-                                    users.append(user)
-                                    self.utils.writeVoteData(user, img_id, description, artManager.get_images(), self.game_session)
-                                else:
-                                    self.sendMessage("You already voted for this description.")
+                            if is_voted:
+
+                                img_id = self.get_img_id(des_id)
                                 
-                            else: #des_id not in des_list
-                                total_users = []  # flatten to 1 array of all users voted for all descriptions
-                                for ds in self.audiences.get_voters().values():
-                                    total_users = total_users + [u for sublist in ds.values() for u in sublist]
+                                des_list = {}
+                                if img_id in self.audiences.get_voters():
+                                    des_list = self.audiences.get_voters().get(img_id)
                                 
-                                if user not in total_users:
-                                    users.append(user)
-                                    self.utils.writeVoteData(user, img_id, description, artManager.get_images(), self.game_session)
-                                else:
-                                    self.sendMessage("You cannot vote for more than one description.")
-                            
-                            if users: # store when users array not empty
-                                des_list[des_id] = users
-                                self.audiences.get_voters()[img_id] = des_list
+                                users = []
+                                if des_id in des_list:
+                                    users = des_list.get(des_id)
+                                
+                                    if user not in users:
+                                        users.append(user)
+                                        print("images in BotTwitch " + json.dumps(artManager.get_images()))
+                                        self.utils.writeVoteData(user, img_id, description, artManager.get_images(), self.game_session)
+                                    else:
+                                        self.sendMessage("You already voted for this description.")
+                                    
+                                else: #des_id not in des_list
+                                    total_users = []  # flatten to 1 array of all users voted for all descriptions
+                                    for ds in self.audiences.get_voters().values():
+                                        total_users = total_users + [u for sublist in ds.values() for u in sublist]
+                                    
+                                    if user not in total_users:
+                                        users.append(user)
+                                        self.utils.writeVoteData(user, img_id, description, artManager.get_images(), self.game_session)
+                                    else:
+                                        self.sendMessage("You cannot vote for more than one description.")
+                                
+                                if users: # store when users array not empty
+                                    des_list[des_id] = users
+                                    self.audiences.get_voters()[img_id] = des_list
                         else:
                             self.sendMessage("There is no typed description id shown on the list. Please try again.")
                     else:
                         self.sendMessage("Sorry you cannot vote since you are a describer. Wait for the next round if you wish.")
                     break
                 elif (not self.isStopDescribingSignal) and self.isStopVotingSignal and message.startswith("#"):
-                    self.sendMessage("Describing session is still on. Please wait for voting session.")
+                    self.sendMessage("Voting session is over. Please wait for its turn.")
                     break
                 elif self.isStopDescribingSignal and not self.isStopVotingSignal and len(message.split(":")) == 2 and message.split(":")[0].isdigit():
                     self.sendMessage("You cannot describe picture in voting session.")

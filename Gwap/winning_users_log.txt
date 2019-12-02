@@ -1,44 +1,43 @@
-78,cuongnguyenngocnsm,honolulu-7285.jpg, a general is fighting with his men,describer
-78,justinnguyenj,honolulu-7285.jpg, a general is fighting with his men,voter
-79,cuongnguyenngocnsm,honolulu-5369.jpg,people are running from something,voter
-79,justinnguyenj,honolulu-5369.jpg,people are running from something,describer
-80,cuongnguyenngocnsm,honolulu-7863.jpg, a house under snow,describer
-80,justinnguyenj,honolulu-7863.jpg, a house under snow,voter
-81,cuongnguyenngocnsm,arcUP1183.jpg, it's bullshit,voter
-81,justinnguyenj,arcUP1183.jpg, it's bullshit,describer
-86,cuongnguyenngocnsm,arcUP2586.jpg,a tree in a darkness,voter
-86,justinnguyenj,honolulu-4552.jpg,a tree in a darkness,describer
-87,cuongnguyenngocnsm,arcUP2586.jpg,a tree in a darkness,voter
-87,justinnguyenj,NDL-651-00-001.jpg,a tree in a darkness,describer
-88,cuongnguyenngocnsm,honolulu-3315.jpg,a mother and a kid is walking along a fence with green trees everywhere,voter
-88,justinnguyenj,honolulu-3315.jpg,a mother and a kid is walking along a fence with green trees everywhere,describer
-89,cuongnguyenngocnsm,honolulu-2896.jpg, many foreign people are in front of a king,voter
-89,justinnguyenj,honolulu-2896.jpg, many foreign people are in front of a king,describer
-90,cuongnguyenngocnsm,honolulu-5177.jpg, kids are digusing as devils having fun at a festival,describer
-90,justinnguyenj,honolulu-5177.jpg, kids are digusing as devils having fun at a festival,voter
-96,cuongnguyenngocnsm,honolulu-3309.jpg, bamboo trees next to a river,voter
-96,justinnguyenj,honolulu-3309.jpg, bamboo trees next to a river,describer
-97,cuongnguyenngocnsm,arcUP3085.jpg, something,voter
-97,justinnguyenj,NDL-533-00-040.jpg, something,describer
-100,cuongnguyenngocnsm,arcUP2570.jpg,lol,voter
-100,justinnguyenj,honolulu-5329.jpg,lol,describer
-101,cuongnguyenngocnsm,honolulu-5553.jpg,hello,voter
-101,justinnguyenj,arcUP5610.jpg,hello,describer
-102,cuongnguyenngocnsm,arcUP2893.jpg,jjaja,voter
-102,justinnguyenj,arcUP2893.jpg,jjaja,describer
-103,cuongnguyenngocnsm,NDL-507-00-017.jpg,kaka,voter
-103,justinnguyenj,honolulu-6030.jpg,kaka,describer
-104,cuongnguyenngocnsm,arcUP3488.jpg,haha,voter
-104,justinnguyenj,arcUP3488.jpg,haha,describer
-105,cuongnguyenngocnsm,arcUP4754.jpg,gdgdf,voter
-105,justinnguyenj,Z0170-177.jpg,gdgdf,describer
-106,cuongnguyenngocnsm,Z0168-397.jpg,hahah,voter
-106,justinnguyenj,Z0168-397.jpg,hahah,describer
-107,cuongnguyenngocnsm,NDL-142-00-001.jpg,kekek,voter
-107,justinnguyenj,NDL-142-00-001.jpg,kekek,describer
-108,cuongnguyenngocnsm,Ebi0927.1-080.jpg,hahah,voter
-108,justinnguyenj,arcUP2138.jpg,hahah,describer
-111,cuongnguyenngocnsm,honolulu-3174.jpg, sexy girl,voter
-111,justinnguyenj,honolulu-4261.jpg, sexy girl,describer
-344,cuongnguyenngocnsm,honolulu-3397.jpg,house,voter
-344,justinnguyenj,honolulu-3397.jpg,house,describer
+3,cuongnguyenngocnsm,NDL-186-00-058.jpg,a house with trees and moutain behind,voter
+3,justinnguyenj,NDL-186-00-058.jpg,a house with trees and moutain behind,describer
+4,cuongnguyenngocnsm,honolulu-2940.jpg,a festival with many people joining,voter
+4,justinnguyenj,honolulu-2940.jpg,a festival with many people joining,describer
+13,cuongnguyenngocnsm,NDL-186-00-026.jpg,a temple with a big green tree at front,voter
+13,justinnguyenj,NDL-186-00-026.jpg,a temple with a big green tree at front,describer
+14,cuongnguyenngocnsm,BM-AN00694613_001.jpg, people are fighting,voter
+14,justinnguyenj,BM-AN00694613_001.jpg, people are fighting,describer
+15,cuongnguyenngocnsm,honolulu-3590.jpg,a village road with some people walking home,voter
+15,justinnguyenj,honolulu-3590.jpg,a village road with some people walking home,describer
+16,cuongnguyenngocnsm,BM-AN00583017_001.jpg,a man is having sex with a woman and another woman is watching with shy,voter
+16,justinnguyenj,BM-AN00583017_001.jpg,a man is having sex with a woman and another woman is watching with shy,describer
+17,cuongnguyenngocnsm,honolulu-4035.jpg,kakaka,voter
+17,justinnguyenj,honolulu-4035.jpg,kakaka,describer
+18,cuongnguyenngocnsm,honolulu-2883.jpg,masdjfksd,voter
+18,justinnguyenj,honolulu-2883.jpg,masdjfksd,describer
+19,cuongnguyenngocnsm,honolulu-5955.jpg,hkafhdskhf,voter
+19,justinnguyenj,honolulu-5955.jpg,hkafhdskhf,describer
+22,cuongnguyenngocnsm,honolulu-3306.jpg,a beautiful blue river with a sailboat on it with moutains on both side,voter
+22,justinnguyenj,honolulu-3306.jpg,a beautiful blue river with a sailboat on it with moutains on both side,describer
+44,cuongnguyenngocnsm,arcUP0851.jpg,NOooooooooo,voter
+44,justinnguyenj,arcUP0851.jpg,NOooooooooo,describer
+2320,cuongnguyenngocnsm,Z0170-224.jpg,aaaaaaaaaa,voter
+2320,justinnguyenj,Z0170-224.jpg,aaaaaaaaaa,describer
+3320,justinnguyenj,NDL-143-10-047.jpg, 4 individual portraits ukiyo-e and other above,voter
+3320,icelabuki,NDL-143-10-047.jpg, 4 individual portraits ukiyo-e and other above,describer
+3322,cuongnguyenngocnsm,honolulu-8004.jpg, people under sakura trees,voter
+3322,icelabuki,honolulu-8004.jpg, people under sakura trees,describer
+3324,cuongnguyenngocnsm,tnm-C0006380.jpg,hahahah,voter
+3324,justinnguyenj,tnm-C0006380.jpg,hahahah,describer
+3326,cuongnguyenngocnsm,Z0166-413.jpg,a black and white photo of a graffiti covered wall,voter
+3327,cuongnguyenngocnsm,arcUP3287.jpg,a bird that is on the side of a wall,voter
+3328,cuongnguyenngocnsm,arcUP1341.jpg,a graffiti covered wall with graffiti on it,voter
+3329,cuongnguyenngocnsm,honolulu-5250.jpg, Heian shrine,voter
+3329,icelabuki,honolulu-5250.jpg, Heian shrine,describer
+3336,cuongnguyenngocnsm,arcUP3507.jpg,a guy fishing wearing no pants,voter
+3336,ebinkatsu,arcUP3507.jpg,a guy fishing wearing no pants,describer
+3337,cuongnguyenngocnsm,NDL-143-10-071.jpg,yakusyae,voter
+3337,wei_zhenao,NDL-143-10-071.jpg,yakusyae,describer
+3340,cuongnguyenngocnsm,honolulu-5941.jpg,bald pervert old guy,voter
+3340,ebinkatsu,honolulu-5941.jpg,bald pervert old guy,describer
+3378,justinnguyenj,honolulu-4265.jpg,akdjflsjflsd,voter
+3378,cuongnguyenngocnsm,honolulu-4265.jpg,akdjflsjflsd,describer
